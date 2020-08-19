@@ -1,0 +1,6585 @@
+<|startoftext|>
+[QUESTION]:Was Abraham Lincoln the sixteenth President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Abraham Lincoln the sixteenth President of the United States?
+[ANSWER]:Yes.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln sign the National Banking Act of 1863?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln sign the National Banking Act of 1863?
+[ANSWER]:Yes.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did his mother die of pneumonia?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did his mother die of pneumonia?
+[ANSWER]:No.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:How many long was Lincoln's formal education?
+[ANSWER]:18 months
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:How many long was Lincoln's formal education?
+[ANSWER]:18 months.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Lincoln begin his political career?
+[ANSWER]:1832
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Lincoln begin his political career?
+[ANSWER]:1832.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What did The Legal Tender Act of 1862 establish?
+[ANSWER]:the United States Note, the first paper currency in United States history
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What did The Legal Tender Act of 1862 establish?
+[ANSWER]:The United States Note, the first paper currency in United States history.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who suggested Lincoln grow a beard?
+[ANSWER]:11-year-old Grace Bedell
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who suggested Lincoln grow a beard?
+[ANSWER]:Grace Bedell.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did the Gettysburg address argue that America was born?
+[ANSWER]:1776
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did the Gettysburg address argue that America was born?
+[ANSWER]:1776.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln beat John C. Breckinridge in the 1860 election?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln beat John C. Breckinridge in the 1860 election?
+[ANSWER]:Yes.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Abraham Lincoln the first President of the United States?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Abraham Lincoln the first President of the United States?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln start his political career in 1832?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln start his political career in 1832?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln ever represent Alton & Sangamon Railroad?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln ever represent Alton & Sangamon Railroad?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Which county was Lincoln born in?
+[ANSWER]:in County
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Which county was Lincoln born in?
+[ANSWER]:Southeast in County, Kentucky
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Lincoln first serve as President?
+[ANSWER]:March 4, 1861
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Lincoln first serve as President?
+[ANSWER]:March 4, 1861
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who assassinated Lincoln?
+[ANSWER]:John Wilkes Booth
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who assassinated Lincoln?
+[ANSWER]:John Wilkes Booth
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln win the election of 1860?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln win the election of 1860?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who was the general in charge at the Battle of Antietam?
+[ANSWER]:General McClellan
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who was the general in charge at the Battle of Antietam?
+[ANSWER]:John Alexander McClernand
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why did Lincoln issue the Emancipation Proclamation?
+[ANSWER]:To free slaves 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why did Lincoln issue the Emancipation Proclamation?
+[ANSWER]:The goal was to weaken the rebellion, which was led and controlled by slave owners.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do scholars rank lincoln among the top three presidents?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did lincoln have 18 months of schooling?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Lincoln chosen as a presidential candidate in 1860?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:How old was Lincoln in 1816?
+[ANSWER]:seven
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When was the first photgraph of lincoln taken?
+[ANSWER]:1846
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:How long was Lincoln's legal Career?
+[ANSWER]:23 years
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What trail did Lincoln use a Farmers' Almanac in?
+ he defended William "Duff" Armstrong
+
+<|startoftext|>
+[QUESTION]:Did Abraham Lincoln live in the Frontier?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Lincoln's Wife's Family support slavery?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did he publish another memoria?
+[ANSWER]:1821
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did he become a professor?
+[ANSWER]:1820
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is it true that he became a professor in 1820?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is he most noted for his contributions to the theory of molarity and molecular weight?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was King Victor Emmanuel III there to pay homage to Avogadro ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Avogadro 's number commonly used to compute the results of chemical reactions ?
+[ANSWER]:yes
+<|endoftext|>
+
+
+<|startoftext|>
+[QUESTION]:Did the scientific community not reserve great attention to his theory ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was King Victor Emmanuel III there to pay homage to Avogadro ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can the title of this famous 1811 paper be roughly translated into english?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1833?
+[ANSWER]:Avogadro had been recalled to Turin university
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who determined the dependence of the boiling of water with atmospheric pressure?
+[ANSWER]:Anders Celsius
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is named after him?
+[ANSWER]:The Celsius crater on the Moon
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he publish a collection?
+[ANSWER]:1733
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that he published a collection in 1738?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that thermometer had 100 for the freezing point?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Celsius born in Uppsala in Sweden?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is The Celsius crater on the Moon named after him?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?
+[ANSWER]:Anders Celsius
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The Celsius crater on the Moon is what?
+[ANSWER]:named after him
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Celsius crater on the Moon named after him ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?
+[ANSWER]:Yes it had
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Celsius born in Uppsala in Sweden ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Celsius crater on the Moon named after him ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?
+[ANSWER]:Yes he did
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened from 1730 to 1744?
+[ANSWER]:He was professor of astronomy at Uppsala University
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1745?
+[ANSWER]:The scale was reversed
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are beetles insects?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are beetles insects?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can beetles be found in polar regions?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can beetles be found in polar regions?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do beetles antennae function primarily as organs of smell?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do beetles antennae function primarily as organs of smell?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the three sections of a beetle?
+[ANSWER]:the head, the thorax, and the abdomen
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the three sections of a beetle?
+[ANSWER]:The head, the thorax, and the abdomen
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which defense mechanism uses colour or shape to deceive potential enemies?
+[ANSWER]:mimicry
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which defense mechanism uses colour or shape to deceive potential enemies?
+[ANSWER]:Mimicry
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which type of beetle is a pest of potato plants?
+<|startoftext|>
+[ANSWER]:Colorado potato [QUESTION]:Which type of beetle is a pest of potato plants?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:Colorado potato [QUESTION]:How can beetle larvae be differentiated from other insect larvae?
+<|endoftext|>
+[ANSWER]:their ened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How can beetle larvae be differentiated from other insect larvae?
+[ANSWER]:By their ened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do beetles eat?
+[ANSWER]:Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do beetles eat?
+[ANSWER]:They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the similarities between beetles and grasshoppers?
+[ANSWER]:mouthparts
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the similarities between beetles and grasshoppers?
+[ANSWER]:Beetles have mouthparts similar to those of grasshoppers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are certain species of beetles considered pests?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are certain species of beetles considered pests?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a beetle's general anatomy uniform?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a beetle's general anatomy uniform?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are beetles endopterygotes?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are beetles endopterygotes?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of beetles are there?
+[ANSWER]:350,000
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of beetles are there?
+[ANSWER]:about 350,000
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When are sperm cells transferred to the female?
+[ANSWER]:during pairing
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When are sperm cells transferred to the female?
+[ANSWER]:During pairing
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the study of beetles called?
+[ANSWER]:coleopterology
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the study of beetles called?
+[ANSWER]:coleopterology
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it possible that there are more than 350,000 species of beetles?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it possible that there are more than 350,000 species of beetles?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Adephaga suborder larger than the Polyphaga suborder?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Adephaga suborder larger than the Polyphaga suborder?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do carrion beetles eat dung?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do carrion beetles eat dung?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are prey of various animals including birds and mammals?
+[ANSWER]:Beetles.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was given by Aristotle for the ened shield like forewings?
+[ANSWER]:The name "Coleoptera".
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who or what vary greatly in form within the coleoptera?
+[ANSWER]:Antennae.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are many beetles territorial?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are beetles endopterygotes with complete metamorphosis?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Oxygen is what?
+[ANSWER]:One kind of gas obtained via a tracheal system.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have coleopterists formed organisations to facilitate the study of beetles ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the study of beetles called coleopterology , and its practitioners are coleopterists ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:May a single female lay from several dozen to several thousand eggs during her lifetime ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can beetles be found in almost all habitats?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened on plants and fungi?
+[ANSWER]:They are food to beetles.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge the twenty-ninth vice president?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge the twenty-ninth vice president?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge graduate from Black River Academy?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge graduate from Black River Academy?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he drop John from his name?
+[ANSWER]:upon graduating from college
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he drop John from his name?
+[ANSWER]:Upon graduating from college
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Coolidge meet and marry Grace Anna Goodhue?
+[ANSWER]:1905
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Coolidge meet and marry Grace Anna Goodhue?
+[ANSWER]:In 1905
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What period of rapid economic growth did the United States experience during Coolidge's presidency?
+[ANSWER]:the Roaring Twenties
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What period of rapid economic growth did the United States experience during Coolidge's presidency?
+[ANSWER]:the "Roaring Twenties"
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Coolidge do after graduating from Amherst?
+[ANSWER]:Coolidge moved to Northampton, Massachusetts
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Coolidge do after graduating from Amherst?
+[ANSWER]:Coolidge moved to Northampton, Massachusetts to take up the practice of law
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Of what state was Coolidge governor?
+[ANSWER]:Massachusetts
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who appointed Harlan Fiske Stone to the Supreme Court?
+[ANSWER]:Coolidge
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who appointed Harlan Fiske Stone to the Supreme Court?
+[ANSWER]:Coolidge
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Coolidge the thirteenth President of the United States?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Coolidge the thirteenth President of the United States?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge Republican?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge Republican?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge a governor of Massachusetts?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Calvin Coolidge a governor of Massachusetts?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Coolidge born?
+[ANSWER]:July 4 1872
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Coolidge born?
+[ANSWER]:Plymouth, Windsor County, Vermont
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Coolidge's grandfather had government offices?
+[ANSWER]:Plymouth
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Coolidge's grandfather had government offices?
+[ANSWER]:The town of Plymouth Notch
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which state were Coolidge born in?
+[ANSWER]:Plymouth, Windsor County, Vermont
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which state were Coolidge born in?
+[ANSWER]:Vermont
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Calvin Jr. older than John Coolidge?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Calvin Jr. older than John Coolidge?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge get in Amherst College?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge get in Amherst College?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Calvin Jr.'s death?
+[ANSWER]:heart attack
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Calvin Jr.'s death?
+[ANSWER]:Heart attack
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was John Calvin Coolidge Jr. was born in Las Vegas?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was John Calvin Coolidge Jr. was born in Las Vegas?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Coolidge opposed in the Republican nomination for Governor of Massachusetts in 1918?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge meet and marry Grace Anna Goodhue?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Coolidge meet and marry Grace Anna Goodhue?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What year did Coolidge open his own law office?
+[ANSWER]:1898
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What year did Coolidge open his own law office?
+[ANSWER]:1898
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What fraternity was Coolidge a member of?
+[ANSWER]:Phi Gamma Delta
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What fraternity was Coolidge a member of?
+[ANSWER]:phi gamma delta
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In 1905 Coolidge met and married whom?
+[ANSWER]:Grace Anna Goodhue
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In 1905 Coolidge met and married whom?
+[ANSWER]:Grace Anna Goodhue
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Coolidge not attend law school?
+[ANSWER]:It wasexpensive
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Coolidge not attend law school?
+[ANSWER]:cost
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have there been other US presidents that have visited Cuba?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have there been other US presidents that have visited Cuba?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What years were Coolidge's two sons born in?
+[ANSWER]:1906 and 1908
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What years were Coolidge's two sons born in?
+[ANSWER]:1906 and 1908
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What thrust him into the national spotlight?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What to be born on the fourth of July?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:Who was the elder of two children of John Calvin Sr and Victoria Coolidge?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:Who or what placed as high as sixth in the voting?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:Is it true that he appointed stone to the supreme court?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What do well - received and he have in common?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What did Coolidge address in 1924?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:Was Coolidge more outspoken?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:Was Coolidge admitted to the bar?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What emigrated from Cambridge?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What graduated from Black?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What Retrieved on May?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:He later what?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:They were what?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:The Republicans retained what?
+<|endoftext|>
+[ANSWER]:(NNP ing #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP 
+<|endoftext|>President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP ing )(POS 's ))(NN death ))))))))))))))(. . )))
+<|startoftext|>
+Calvin_CoolidgeCalvin_Coolidge[QUESTION]:Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?
+<|startoftext|>[ANSWER]:Did Coolidge not publish his autobiography in 1929 and write a syndicated newspaper column , `` Calvin Coolidge 
+<|endoftext|>Says , '' from 
+1930 -- [QUESTION]:1931 ?
+<|startoftext|>[ANSWER]:Were the more well-known Coolidges , such as architect Charles Allerton Coolidge , and diplomat Archibald Cary 
+<|endoftext|>Coolidge , 
+descended from [QUESTION]:other branches of the family that had stayed in Massachusetts ?
+<|startoftext|>
+[ANSWER]:[QUESTION]:Is the genius of the average the most convincing proof of $ his strength?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What happened from tuberculosis?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What happened from black river academy , vermont?
+<|endoftext|>
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did France cede nearly all of its colonies in Europe in 1763?
+[ANSWER]:Yes.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did France cede nearly all of its colonies in Europe in 1763?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did France cede nearly all of its colonies in Europe in 1763?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Canada a member of the OECD?
+[ANSWER]:Yes.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada a member of the OECD?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada a member of the OECD?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Canada's official language Zulu?
+[ANSWER]:No.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada's official language Zulu?
+[ANSWER]:no
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada's official language Zulu?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is one significant non-official language?
+[ANSWER]:Chinese.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What is one significant non-official language?
+[ANSWER]:Chinese
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What is one significant non-official language?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
+[ANSWER]:Quebec City
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:In addition to Port Royal, where else did Samuel de Champlain establish a settlement?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was the Consitution Act formerly called?
+[ANSWER]:The British North America Act.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What was the Consitution Act formerly called?
+[ANSWER]:British North America Act
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What was the Consitution Act formerly called?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which countries established colonies in Canada?
+[ANSWER]:France and Britain.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Which countries established colonies in Canada?
+[ANSWER]:Fance and Britain
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Which countries established colonies in Canada?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How has Canada helped UN peacekeeping efforts?
+[ANSWER]:During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping 
+<|endoftext|>Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989
+Canada
+<|startoftext|>
+[QUESTION]:How has Canada helped UN peacekeeping efforts?
+[ANSWER]:Canada has played a leading role in UN peacekeeping efforts. During the Suez Crisis of 1956, Lester B. Pearson eased tensions by 
+<|endoftext|>proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989
+Canada
+<|startoftext|>
+[QUESTION]:How has Canada helped UN peacekeeping efforts?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What percentage of the population don't speak English or French at home?
+[ANSWER]:28%
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What percentage of the population don't speak English or French at home?
+[ANSWER]:1.5%
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What percentage of the population don't speak English or French at home?
+[ANSWER]:Canada
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Canada bilingual?
+[ANSWER]:Yes.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada bilingual?
+[ANSWER]:Yes, it is.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+[ANSWER]:Yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did Canadian soldiers win the Battle of Vimy Ridge in 1917?
+[ANSWER]:No, it did not.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is an official language of Canada German?
+[ANSWER]:No.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is an official language of Canada German?
+[ANSWER]:No, it is not.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:How many provinces and territories does Canada have?
+[ANSWER]:A federation now comprising ten provinces and three territories
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:How many provinces and territories does Canada have?
+[ANSWER]:Ten provinces and three territories
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What is Canada's national unemployment rate?
+[ANSWER]:While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates 
+<|endoftext|>vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. 
+Canada
+<|startoftext|>
+[QUESTION]:What is Canada's national unemployment rate?
+[ANSWER]:In October 2007, Canada's national unemployment rate is 5.9%.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Where is the most densely populated part of Canada?
+[ANSWER]:The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River 
+<|endoftext|>in the southeast.
+Canada
+<|startoftext|>
+[QUESTION]:Where is the most densely populated part of Canada?
+[ANSWER]:The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River 
+<|endoftext|>in the southeast.
+Canada
+<|startoftext|>
+[QUESTION]:What is the largest country in the world?
+[ANSWER]:Canada is the second largest country in the world, after Russia, and largest on the continent.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What is the largest country in the world?
+[ANSWER]:Russia.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What is the largest religious group in Canada?
+[ANSWER]:According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% 
+<|endoftext|>of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%. 
+Canada
+<|startoftext|>
+[QUESTION]:What is the largest religious group in Canada?
+[ANSWER]:Christian
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:When did Canada have one of the largest armed forces in the world?
+[ANSWER]:1944.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:When did Canada have one of the largest armed forces in the world?
+[ANSWER]:World War II.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What have been inhabited for millennia by aboriginal peoples?
+[ANSWER]:The lands
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:European books and maps began referring to this region as Canada in what year?
+[ANSWER]:1545
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What was Canada's most important industry until the 1800s?
+[ANSWER]:The fur trade
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is it true that it angered many residents of the thirteen colonies?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:How do cuba and declining participation relate?
+[ANSWER]:Canada maintains full relations with both.
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is it true that provinces have a large degree of autonomy?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What did Canada adopt in 1965?
+[ANSWER]:The Maple Leaf Flag
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What arrived in Britain?
+[ANSWER]:The first Canadian Army units in WW II
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Are Canada 's two official languages English and French ?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is Canada a geographically vast and ethnically diverse country ?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht(: ; ?
+[ANSWER]:no!
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Did continental European immigrants not settle the prairies ?
+[ANSWER]:no
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:Is it the world 's second largest country by total area?
+[ANSWER]:yes
+<|endoftext|>
+Canada
+<|startoftext|>
+[QUESTION]:What happened in 1867?
+[ANSWER]:Canada was formed as a federal, semi-autonomous polity
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are ducks in the Arctic Northern Hemisphere migratory?
+[ANSWER]:Some are
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are ducks in the Arctic Northern Hemisphere migratory?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is a drake a male?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is a drake a male?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do all ducks "quack"?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do all ducks "quack"?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is the name of a specialized species of duck adapted to catch large fish?
+[ANSWER]:the smew
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What animal attracts the most humor and silliness?
+[ANSWER]:The 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What animal attracts the most humor and silliness?
+[ANSWER]:the 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is an economic use of a duck?
+[ANSWER]:Meat
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is an economic use of a duck?
+[ANSWER]:being farmed for their meat
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who is Daffy Duck?
+[ANSWER]:A silly cartoon character
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who is Daffy Duck?
+[ANSWER]:a silly cartoon character
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What makes it more difficult for a diving duck to fly?
+[ANSWER]:They are heavier
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What makes it more difficult for a diving duck to fly?
+[ANSWER]:they are heavier
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What are the reasons for hunting wild ducks?
+[ANSWER]:Meat, eggs, and feathers
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do ducks forage underwater?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do ducks forage underwater?
+[ANSWER]:Diving ducks and sea ducks forage underwater
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do all ducks "quack"?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Do all ducks "quack"?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is foie gras often made from ducks?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is foie gras often made from ducks?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What economic uses to ducks have?
+[ANSWER]:They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What economic uses to ducks have?
+[ANSWER]:They can be farmed for meat, eggs, and feathers
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What kind of ducks feed on land?
+[ANSWER]:Dabbling ducks
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What kind of ducks feed on land?
+[ANSWER]:Dabbling ducks feed on land
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What unrelated water birds are ducks sometimes confused with?
+[ANSWER]:loons or divers, grebes, gallinules, and coots
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What unrelated water birds are ducks sometimes confused with?
+[ANSWER]:loons or divers, grebes, gallinules, and coots
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What does the word duck mean?
+[ANSWER]:It is the common name for a number of species in the Anatidae family of birds.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What does the word duck mean?
+[ANSWER]:to bend down low as if to get under something
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What are some common predators of ducks?
+[ANSWER]:Pike, crocodilians, herons, hawks and eagles.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What are some common predators of ducks?
+[ANSWER]:pike, crocodilians, and other aquatic hunters
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:How does a Mallard's tongue work?
+[ANSWER]:It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing 
+<|endoftext|>struggling prey and other food down its throat
+
+<|startoftext|>
+[QUESTION]:How does a Mallard's tongue work?
+[ANSWER]:It uses short spikes to push struggling prey and other food down its throat
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are diving ducks heavier tha dabbling ducks?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are diving ducks heavier tha dabbling ducks?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are adult ducks fast fliers?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are adult ducks fast fliers?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are ducks an accepted presence in some populated areas?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are ducks an accepted presence in some populated areas?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What types of unrelated water birds with similar forms are ducks sometimes confused with?
+[ANSWER]:loons or divers, grebes, gallinules, and coots
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What types of unrelated water birds with similar forms are ducks sometimes confused with?
+[ANSWER]:loons or divers, grebes, gallinules, and coots
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why are ducklings particularly vulnerable?
+[ANSWER]:Their inability to fly.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why are ducklings particularly vulnerable?
+[ANSWER]:their inability to fly makes them prey
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What are some economic uses for duck?
+[ANSWER]:Meat,eggs,feathers
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What are some economic uses for duck?
+[ANSWER]:being farmed for their meat, eggs, feathers, (particularly their down)
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What allows a duck to filter water out of the side of their beaks and keep food inside?
+[ANSWER]:Tiny rows of plates called lamellae
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What allows a duck to filter water out of the side of their beaks and keep food inside?
+[ANSWER]:tiny rows of plates called lamellae like a whale's baleen
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What expression is part of a conceptual framework for testing computer systems?
+[ANSWER]:Quacks like a 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What expression is part of a conceptual framework for testing computer systems?
+[ANSWER]:Quacks like a 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Where did the expression "a sitting duck" come from?
+[ANSWER]:In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by 
+<|endoftext|>shooting, or formerly by decoys.
+
+<|startoftext|>
+[QUESTION]:Where did the expression "a sitting duck" come from?
+[ANSWER]:In many areas, wild ducks of various species (including ducks farmed and released into the wild) are hunted for food or sport, by 
+<|endoftext|>shooting, or formerly by decoys.
+
+Egypt
+<|startoftext|>
+[QUESTION]:Is Egypt bordered by the Gaza Strip?
+[ANSWER]:yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Is Egypt bordered by the Gaza Strip?
+[ANSWER]:Yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Is Egypt the most populated country in Africa?
+[ANSWER]:no
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Is Egypt the most populated country in Africa?
+[ANSWER]:No
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt have political influence in the Middle East?
+[ANSWER]:yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt have political influence in the Middle East?
+[ANSWER]:Yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When was the Six Day War?
+[ANSWER]:1967
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When was the Six Day War?
+[ANSWER]:1967
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What religions has Egypt outlawed?
+[ANSWER]:All but Christianity, Islam, and Judaism
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What religions has Egypt outlawed?
+[ANSWER]:all religions and belief except Islam, Christianity and Judaism
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What is the poulation of Egypt?
+[ANSWER]:more than 78 million
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What is the poulation of Egypt?
+[ANSWER]:78 million people
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Why does most of Egypt's population live near the Nile?
+[ANSWER]:the only arable agricultural land is found there,
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Why does most of Egypt's population live near the Nile?
+[ANSWER]:The only arable agricultural land is found there
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Are there a large number of Jews living in Egypt today?
+[ANSWER]:no
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Are there a large number of Jews living in Egypt today?
+[ANSWER]:No
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:During what period was Akhenaten a Pharaoh?
+[ANSWER]:The New Kingdom (c.1550&#8722;1070 BC) 
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:During what period was Akhenaten a Pharaoh?
+[ANSWER]:The New Kingdom
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Is Egypt in Asia?
+[ANSWER]:No.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt receive the least rainfall in the world?
+[ANSWER]:Yes.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt receive the least rainfall in the world?
+[ANSWER]:Yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt's foreign policy operates along moderate lines?
+[ANSWER]:Yes.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does Egypt's foreign policy operates along moderate lines?
+[ANSWER]:Yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Since when has Egypt been a republic?
+[ANSWER]:June 18 1953.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Since when has Egypt been a republic?
+[ANSWER]:June 18 1953
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When were the Great Sphinx and the Pyramids of Giza built?
+[ANSWER]:During the Old Kingdom.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When were the Great Sphinx and the Pyramids of Giza built?
+[ANSWER]:During the Old Kingdom
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What countries border Egypt?
+[ANSWER]:Libya, Sudan, the Gaza Strip and Israel.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What countries border Egypt?
+[ANSWER]:Libya, Sudan, the Gaza Strip and Israel
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What is the estimated population of Egypt?
+[ANSWER]:More than 78 million.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:What is the estimated population of Egypt?
+[ANSWER]:78 million
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does snow fall in Egypt?
+[ANSWER]:Yes.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:Does snow fall in Egypt?
+[ANSWER]:Yes
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When did organized agriculture appear in the Nile Valley?
+[ANSWER]:6000 BC.
+<|endoftext|>
+Egypt
+<|startoftext|>
+[QUESTION]:When did organized agriculture appear in the Nile Valley?
+[ANSWER]:About 6000 BC
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants the largest land animals alive today?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants the largest land animals alive today?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Can an elephant kill a rhinoceros?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Can an elephant kill a rhinoceros?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants good swimmers?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants good swimmers?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many living species of African Elephants are there?
+[ANSWER]:2
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many living species of African Elephants are there?
+[ANSWER]:The African Elephant genus contains two (or, arguably, three) living species.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How long may elephants live?
+[ANSWER]:70 years
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How long may elephants live?
+[ANSWER]:As long as 70 years, sometimes longer.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Why does the phrase 'elephants never forget' have no metaphorical meaning?
+[ANSWER]:it refers literally to elephants supposedly having an excellent memory
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Why does the phrase 'elephants never forget' have no metaphorical meaning?
+[ANSWER]:Because it refers literally to elephants supposedly having an excellent memory.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many living species of Asian Elephants are there?
+[ANSWER]:1
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many living species of Asian Elephants are there?
+[ANSWER]:one
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How much do elephants weight at birth?
+[ANSWER]:120 kilograms
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How much do elephants weight at birth?
+[ANSWER]:At birth it is common for an elephant calf to weigh 120 kilograms (265 lb).
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What did Aristotle say about elephants?
+[ANSWER]:the beast which passeth all others in wit and mind
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What did Aristotle say about elephants?
+[ANSWER]:Aristotle once said the elephant was "the beast which passeth all others in wit and mind."
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephant populations in West Africa generally small and fragmented?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephant populations in West Africa generally small and fragmented?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is the Asian elephant larger than the African?
+[ANSWER]:no
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is the Asian elephant larger than the African?
+[ANSWER]:Sometimes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is an elephant's skin tough?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is an elephant's skin tough?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How do elephants communicate over long distances?
+[ANSWER]:by producing and receiving low frequency sound
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How do elephants communicate over long distances?
+[ANSWER]:By producing and receiving low-frequency sound (infrasound)
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:When do African elephants lie down?
+[ANSWER]:when they are sick or wounded
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How long is the elephant's gestation period?
+[ANSWER]:22 months
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How long is the elephant's gestation period?
+[ANSWER]:22 months
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many species of African elephants have been proposed?
+[ANSWER]:three
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:How many species of African elephants have been proposed?
+[ANSWER]:three
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What are the elephant's ears important for?
+[ANSWER]:temperature regulation
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What are the elephant's ears important for?
+[ANSWER]:temperature regulation
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What land animal has the largest brain?
+[ANSWER]:elephant
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What land animal has the largest brain?
+[ANSWER]:The elephant
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants mammals?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Are elephants mammals?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Have elephants been used as working animals?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Have elephants been used as working animals?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Do they prefer forested areas?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Do they prefer forested areas?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What is the world population of Asian elephants?
+[ANSWER]:60000
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What is the world population of Asian elephants?
+[ANSWER]:The world population of Asian elephants – also called Indian Elephants or Elephas maximus – is estimated to be around 60,000
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What part of an elephant is very important for temperature regulation?
+[ANSWER]:Ears
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What part of an elephant is very important for temperature regulation?
+[ANSWER]:The large flapping ears of an elephant are also very important for temperature regulation.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Where was the largest elephant ever recorded shot?
+[ANSWER]:Angola
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Where was the largest elephant ever recorded shot?
+[ANSWER]:The largest elephant ever recorded was shot in Angola in 1956.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is an Asian elephant smaller than an African elephant?
+[ANSWER]:yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Is an Asian elephant smaller than an African elephant?
+[ANSWER]:Yes
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What land animal is larger than an elephant?
+[ANSWER]:None
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:What land animal is larger than an elephant?
+[ANSWER]:None, the elephant is the largest land animal.
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Has tusklessness become a rare abnormality?
+[ANSWER]:No
+<|endoftext|>
+elephant
+<|startoftext|>
+[QUESTION]:Has tusklessness become a rare abnormality?
+[ANSWER]:No, tusklessness has become a widespread hereditary trait. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Were the treaties signed in 1947 and 1948 with the Ukraine?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Were the treaties signed in 1947 and 1948 with the Ukraine?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Finnish a member of the Baltic-Finnic subgroup of the Uralic languages?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the most read newspaper in Finland Taloussanomat?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the most read newspaper in Finland Taloussanomat?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which Russian army general conquered Finland in 1809?
+[ANSWER]:Alexander I
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which Russian army general conquered Finland in 1809?
+[ANSWER]:Alexander I
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the life expectancy for men in Finland?
+[ANSWER]:75 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the life expectancy for men in Finland?
+[ANSWER]:75 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In what year were the "Games of the XV Olympiad" held?
+[ANSWER]:1952
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In what year were the "Games of the XV Olympiad" held?
+[ANSWER]:1952
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What body of water lies to the south of Finland?
+[ANSWER]:the Gulf of <|endoftext|>
+<|startoftext|>
+[QUESTION]:What body of water lies to the south of Finland?
+[ANSWER]:Archipelago Sea
+<|endoftext|>
+Name an animal that is growing in number due to recent conservation efforts
+Golden Eagle, Brown Bear, or Eurasian Lynx (Change imperative to interrogative)
+Name an animal that is growing in number due to recent conservation efforts
+Golden Eagle
+<|startoftext|>
+[QUESTION]:Today, are there more cell phone subscriptions than people in Finland?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Today, are there more cell phone subscriptions than people in Finland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Matti Vanhanen the Prime Minister of Finland?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Matti Vanhanen the Prime Minister of Finland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the capital city Oslo?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the capital city Oslo?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does it have a border with Norway?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does it have a border with Norway?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the life expectancy for men?
+[ANSWER]:75 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the life expectancy for men?
+[ANSWER]:75 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the biggest city in Finland?
+[ANSWER]:Greater Helsinki
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the biggest city in Finland?
+[ANSWER]:the cities of the Greater Helsinki metropolitan area
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who is the most popular rock group in Finland?
+[ANSWER]:CMX
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who is the most popular rock group in Finland?
+[ANSWER]:CMX
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is Finland's economy like?
+[ANSWER]:a highly industrialised, free-market economy
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Finland located?
+[ANSWER]:Northern Europe
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Finland located?
+[ANSWER]:Northern Europe
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the weather like in summer?
+[ANSWER]:relatively warm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the weather like in summer?
+[ANSWER]:relatively warm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does salmon remain the favorite of fly rod enthusiasts?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does salmon remain the favorite of fly rod enthusiasts?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are there cathedrals scattered all across Finland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are there cathedrals scattered all across Finland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:According to Reader's Digest, is Finland best for living?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:According to Reader's Digest, is Finland best for living?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did the first verifiable written documents appear?
+[ANSWER]:Twelfth Century
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did the first verifiable written documents appear?
+[ANSWER]: The first verifiable written documents appeared in the twelfth century. 
+<|endoftext|>
+  <|startoftext|>
+[QUESTION]:What is the capital city?
+[ANSWER]:Helsinki
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the capital city?
+[ANSWER]:The capital city is Helsinki. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the most extensively celebrated holiday?
+[ANSWER]:Christmas
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the most extensively celebrated holiday?
+[ANSWER]:Christmas is the most extensively celebrated holiday.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does a large proportion of the population speak Swedish as its mother tongue?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do women live longer than men?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do women live longer than men?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a country with which Finland is involved in an international conflict?
+[ANSWER]:None
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a country with which Finland is involved in an international conflict?
+[ANSWER]:Finland is not involved in international conflicts or border disputes. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is Helsinki?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is concentrated in the southern part of the country?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is spoken natively by a 5.5 percent minority?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do jari litmanen and sami hyypiä have in common?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that he composed finlandia in 1899?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that it has borders with sweden?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Finland join in 1995?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is finnish culture indigenous?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is finnish architecture famous?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What situated in Northern?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What arrived in Finland?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:What ceded by Finland?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Lunch is what?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who is the autonomous Åland Islands , where Finnish is not compulsory due to Swedish being the sole official language of the province . ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:The earliest people were what?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Various sporting events popular in Finland ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are all official holidays in Finland established by acts of Parliament ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the people of Finland accustomed to technology and information services ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was one of the most productive composers of popular music Toivo Kärki , and the most famous singer Olavi Virta -LRB- 1915 -- 1972 -RRB- ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do 79 percent of the population not use the Internet ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>Did the relationship between the Grand Duchy and the Russian Empire not sour when the Russian government made moves to restrict Finnish [
+QUESTION]:autonomy ?
+[ANSWER]:<|endoftext|>
+<|startoftext|>Is finland , officially the republic of finland (`` `` republic of finland ('' '' , or (`` `` suomen tasavalta ('' '' in finnish and (`` [
+QUESTION]:`` republiken finland ('' '' in swedish , the long protocol name , which is not defined by the law?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the capital city helsinki?
+[ANSWER]:<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is finland a democratic , parliamentary republic?
+[ANSWER]:Gerald_Ford
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Ford a member of the House of Representatives?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford a member of the House of Representatives?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:For how long was Ford a member of the House of Representatives?
+[ANSWER]:Over eight years.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:For how long was Ford a member of the House of Representatives?
+[ANSWER]:Ford served for over eight years as the Republican Minority Leader of the United States House of Representatives
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Gerald Ford a member of Delta Kappa Epsilon?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Gerald Ford a member of Delta Kappa Epsilon?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did ford get an award called "Congressman's congressman"?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did ford get an award called "Congressman's congressman"?
+[ANSWER]:No
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did ford attend the University of Michigan?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did ford attend the University of Michigan?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What positions Ford played in the school football team?
+[ANSWER]:Center and linebacker
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What positions Ford played in the school football team?
+[ANSWER]:Captain
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What did Ford say about his biological father?
+[ANSWER]:He was abusive and had a history of hitting his mother.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What did Ford say about his biological father?
+[ANSWER]:his biological father was abusive and had a history of hitting his mother
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Who did Ford nominate for Vice President?
+[ANSWER]:Bob Dole
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Who did Ford nominate for Vice President?
+[ANSWER]:Nelson Rockefeller
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford active about Vietnamese affairs?
+[ANSWER]:No
+<|endoftext|>
+\n
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford active about Vietnamese affairs?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Had Ford's wife married before?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Had Ford's wife married before?
+[ANSWER]:No
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Is Ford related with the assassination of John F. Kennedy?
+[ANSWER]:Yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Gerald Ford the 38th President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Gerald Ford the 38th President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did Gerald Ford serve as the Republican Minority Leader of the House of Representatives?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford an Eagle Scout?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford an Eagle Scout?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What district was Ford elected from?
+[ANSWER]:Michigan's 5th congressional district
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What district was Ford elected from?
+[ANSWER]:Michigan's 5th congressional district
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:How many Eagle Scouts were involved in Ford's funeral procession?
+[ANSWER]:400
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:How many Eagle Scouts were involved in Ford's funeral procession?
+[ANSWER]:About 400
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Which future Heisman Trophy winner did Ford tackle?
+[ANSWER]:Jay Berwanger
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Which future Heisman Trophy winner did Ford tackle?
+[ANSWER]:Jay Berwanger
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Has another US President been an Eagle Scout?
+[ANSWER]:no
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Has another US President been an Eagle Scout?
+[ANSWER]:no
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did Ford need to do extra work to pay for college?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did Ford need to do extra work to pay for college?
+[ANSWER]:yes
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Have more than five Presidents lived past the age of 90?
+[ANSWER]:no
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Have more than five Presidents lived past the age of 90?
+[ANSWER]:no
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:How do kwajalein and eniwetok relate?
+[ANSWER]:The Monterey supported landings at both locations.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:What did Ford receive on April 13, 1942?
+[ANSWER]:Ford received a commission as ensign in the US Naval Reserve.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford released from the hospital?
+[ANSWER]:Yes.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford interred at his Presidential Museum in Grand Rapids, Michigan?
+[ANSWER]:Yes.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Is Ford one of only four former Presidents to live to 90 or more years of age ?
+[ANSWER]:Yes.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Was Ford the last surviving member of the Warren Commission ?
+[ANSWER]:Yes.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did Grand Rapids supporters not urge him to take on Bartel J. Jonkman , the incumbent Republican congressman ?
+[ANSWER]:No.
+<|endoftext|>
+
+Gerald_Ford
+<|startoftext|>
+[QUESTION]:Did they not claim Ford 's pardon was quid pro quo in exchange for Nixon 's resignation ?
+[ANSWER]:They did claim Ford's pardon was quid pro quo.
+<|endoftext|>
+
+Ghana
+<|startoftext|>
+[QUESTION]:Does Ghana have twice the per capita output of the poorer countries in West Africa?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Does Ghana have twice the per capita output of the poorer countries in West Africa?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is English Ghana's official language?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is English Ghana's official language?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Did the Dutch build the Elmina Castle?
+[ANSWER]:No
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Did the Dutch build the Elmina Castle?
+[ANSWER]:no
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:When did Ghana achieve independence from the United Kingdom?
+[ANSWER]:1957
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:When did Ghana achieve independence from the United Kingdom?
+[ANSWER]:1957
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:How many regions is Ghana divided into?
+[ANSWER]:10
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:How many regions is Ghana divided into?
+[ANSWER]:10
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who is the head of state of Ghana?
+[ANSWER]:President John Agyekum Kofuor
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who is the head of state of Ghana?
+[ANSWER]:John Agyekum Kufuor
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What is the dominant religion in Ghana?
+[ANSWER]:Christian
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What is the dominant religion in Ghana?
+[ANSWER]:christian
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What are the two subfamilies of the Native Ghanaian languages?
+[ANSWER]:Kwa and Gur
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What are the two subfamilies of the Native Ghanaian languages?
+[ANSWER]:Kwa and Gur
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What is the weather like at Lake Volta?
+[ANSWER]:Warm and comparatively dry
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What is the weather like at Lake Volta?
+[ANSWER]:warm and comparatively dry
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is Ghana in Asia?
+[ANSWER]:no
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is Ghana in Asia?
+[ANSWER]:No
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is English the official language?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is English the official language?
+[ANSWER]:Yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is Ghana's head of state John Agyekum Kufuor?
+[ANSWER]:yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Is Ghana's head of state John Agyekum Kufuor?
+[ANSWER]:Yes
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What does the word Ghana mean?
+[ANSWER]:warrior king
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What does the word Ghana mean?
+[ANSWER]:Warrior King
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who was Kwame Nkrumah?
+[ANSWER]:founder and first president
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who was Kwame Nkrumah?
+[ANSWER]:founder and first president of the modern Ghanaian state
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Where is old Ghana in relation to present Ghana?
+[ANSWER]:500 miles north
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Where is old Ghana in relation to present Ghana?
+[ANSWER]:500 miles north of the present Ghana, and occupied the area between Rivers Senegal and Niger
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who makes up Ghana's Parliament?
+[ANSWER]:the New Patriotic Party and National Democratic Congress
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:Who makes up Ghana's Parliament?
+[ANSWER]:the New Patriotic Party and National Democratic Congress
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What European countries established states in Ghana?
+[ANSWER]:The UK
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What European countries established states in Ghana?
+[ANSWER]:Portugual, France, Britain, Netherlands
+<|endoftext|>
+Ghana
+<|startoftext|>
+[QUESTION]:What was Wagadugu?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was controlled by Sundiata in 1240 AD, and absorbed into the larger Mali Empire?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What connected the Akans to this Empire?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that anecdotal evidence connected the akans to this empire?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that the portuguese came to ghana in the 15th century?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that agricultural expansion marked the period before 500?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Ghana capture in 1642?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is The Parliament of Ghana unicameral?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>Is Medieval Ghana (4th- 13th Century): The Republic of Ghana is named after the medieval Ghana Empire of West Africa. named after the [
+QUESTION]:medieval Ghana Empire of West Africa?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was on March?
+[ANSWER]:GhanaGhanaGhana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The coastline is what?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Ghana 's spending on education has what?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who sits at Osu Castle ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is all teaching done in English , Ghana 's official language ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Native Ghanaian languages divided into two linguistic subfamilies of the Niger-Congo language family ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are more than 100 languages and dialects spoken in Ghana ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Had the tax regime which started in 1998 a single rate but since September 2007 entered into a multiple rate regime ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>Did European and other : 0.2 % Religions : Christian 63 % , African beliefs 21 % , Muslim 16 % , Facts on People of Ghana , not access [
+QUESTION]:July 13 , 2006 More than 100 languages and dialects are spoken in Ghana ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>Does this not allow retailers of taxable goods under Act 546 to charge a marginal 3 % on their sales and account on same to the VAT [
+QUESTION]:Service ?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the republic of ghana a country in west africa?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened with the portuguese in the 15th century?
+[ANSWER]:Ghana
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the Gray Wolf share an ancestry with the domestic dog?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the Gray Wolf share an ancestry with the domestic dog?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do wolf pups tend to have darker fur than adults?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do wolf pups tend to have darker fur than adults?
+[ANSWER]:Yes, They do tend to have darker furs
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do wolves leave their pack?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do wolves leave their pack?
+[ANSWER]:They leave their birth pack when they reach sexual maturity
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What kinds of coats do wolves have?
+[ANSWER]:bulky coats with two layers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What kinds of coats do wolves have?
+[ANSWER]:Tough guard hairs that repel water and dirt, and a dense, water-resistant layer
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do wolves have scent glands?
+[ANSWER]:Helping the woldf to effectively navigate over large expanses while concurrently keeping others informed of its whereabouts.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do wolves have scent glands?
+[ANSWER]:between a wolf's toes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much do wolves weigh?
+[ANSWER]:typically varies between 32 and 62 kilograms
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much do wolves weigh?
+[ANSWER]:between 32 and 68 kilograms 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why do wolves howl?
+[ANSWER]:Howling helps pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great 
+<|endoftext|>distances. Howling also helps to call pack members to a specific location. Howling can also serve as a declaration of territory, as shown in a dominant wolf&apos;s tendency to respond to a human imitation of a "rival" wolf in an area the wolf considers its own. 
+<|startoftext|>
+[QUESTION]:Why do wolves howl?
+[ANSWER]:To pack members keep in touch, allowing them to communicate effectively in thickly forested areas or over great distances
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is surplus killing?
+[ANSWER]:Surplus killing is defined as the killing of several prey animalsnumerous to eat at one sitting.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is surplus killing?
+[ANSWER]:the killing of several prey animalsnumerous to eat at one sitting
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Gray Wolves native to North America?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Gray Wolves native to North America?
+[ANSWER]:No. Current theory suggests that it's from Eurasia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Gray Wolf a mammal?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are a wolf's teeth its main weapons?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are wolves built for stamina?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is the largest gray wolf population thought to be found?
+[ANSWER]:Kazakhstan
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:To what genus does the gray wolf belong?
+[ANSWER]:Canis
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When do wolves molt?
+[ANSWER]:Late Spring or Early Summer
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?
+[ANSWER]:A pack can only suppport one littler per year
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What type of tools do biologists use to capture wolves for tagging?
+[ANSWER]:Darting and Foot hold traps.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Forward, erect ears and slightly bristle hackles are a sign of what in wolves?
+[ANSWER]:Dominance
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grover Cleveland born in New York?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Grover Cleveland win the 1884 election?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Grover Cleveland support women's suffrage?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Grover Cleveland married?
+[ANSWER]:In the White House
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Cleveland die from?
+[ANSWER]:A heart attack
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many years after Cleveland left office did the U.S. win the Spanish-American War?
+[ANSWER]:One Year
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Cleveland's opponents say in 1884 to counter his innocent image?
+[ANSWER]:that he had fathered an illegitimate child while he was a lawyer in Buffalo
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Cleveland run against in 1884?
+[ANSWER]:former Senator James G. Blaine of Maine
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Cleveland want to hide his cancer surgery from the public?
+[ANSWER]:To avoid further market panic
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Cleveland want to hide his cancer surgery from the public?
+[ANSWER]:because of the financial depression of the country
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grover Cleveland the twenty-seventh president of the United States?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Grover Cleveland honest?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grover Cleveland married in the whitehouse?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was he elected sheriff of Erire County, New York?
+[ANSWER]:1870
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he die?
+[ANSWER]:June 24 1908
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which election did Grover Cleveland win?
+[ANSWER]:1884 and 1892 presidential elections
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who were Grover Cleveland's parents?
+[ANSWER]:Cleveland was born in Caldwell, New Jersey to the Reverend Ric Cleveland and Anne Neal.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who were Grover Cleveland's parents?
+[ANSWER]:Reverend Ric Cleveland and Anne Neal.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many children did Grover Cleveland have?
+[ANSWER]:Six.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who lost control of his party to the agrarians and silverites in 1896?
+[ANSWER]:Grover Cleveland
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that he sent in federal troops to chicago?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Cleveland born in Caldwell, New Jersey to the Reverend Ric Cleveland and Anne Neal?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grover Cleveland elected Sheriff of Erie County, New York?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Cleveland 's portrait on the U.S. $ 1000 bill from 1928 to 1946 ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is he buried in the Princeton Cemetery of the Nassau Presbyterian Church ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the Department of the Interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the team , sedating Cleveland with nitrous oxide -LRB- laughing gas -RRB- , not remove his upper left jaw and portions of hispalate ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:He became chief engineer in the Department of Bridges and Highways in what year?
+[ANSWER]:in 1894
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What led Becquerel to investigate the spontaneous emission of nuclear radiation?
+[ANSWER]:phographic plates being fully exposed
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that he married louise désirée lorieux in 1890?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that he shared the nobel prize in physics?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he marry louise désirée lorieux?
+[ANSWER]:1890
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Becquerel elected Permanent Secretary of the Académie des Sciences?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who won the 1903 Nobel Prize in Physics for discovering radioactivity ?
+[ANSWER]:Henri Becquerel
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he not die at the age of 55 in Le Croisic ?
+[ANSWER]:Yes he died at the age of 55
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1896?
+[ANSWER]: Becquerel accidentally discovered radioactivity.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened with a bromide emulsion in two sheets of very thick black paper?
+[ANSWER]:the plate does not become clouded upon being exposed to the sun for a day
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is there a becquerel crater on the moon and a becquerel crater on mars?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the Javanese the largest and politically dominant ethnic group in Indonesia?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are the Javanese the largest and politically dominant ethnic group in Indonesia?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Indonesia a monarchy with a presidential system?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Indonesia a monarchy with a presidential system?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:In what year did East Timor secede from Indonesia?
+[ANSWER]:1999
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:In what year did East Timor secede from Indonesia?
+[ANSWER]:1999
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Islam become the dominant religion in Java and Sumatra?
+[ANSWER]:the end of the 16th century
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Islam become the dominant religion in Java and Sumatra?
+[ANSWER]:by the end of the 16th century
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Does Indonesia have the world's hightest level of biodiversity?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Does Indonesia have the world's hightest level of biodiversity?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Indonesia named after it became an independent country?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Indonesia named after it became an independent country?
+[ANSWER]:No
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why did Indonesia break off relations with the People's Republic of China?
+[ANSWER]:because of anti-communist purges early in the Suharto era
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Why did Indonesia break off relations with the People's Republic of China?
+[ANSWER]:anti-communist purges early in the Suharto era
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Which spice originally attracted Europeans to Indonesia?
+[ANSWER]:nutmeg, cloves, or cubeb pepper
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Which spice originally attracted Europeans to Indonesia?
+[ANSWER]:nutmeg, cloves, and cubeb pepper
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Jakarta?
+[ANSWER]:Indonesia's special capital region
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What shares land borders with Papua New Guinea, East Timor and Malaysia?
+[ANSWER]:
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the largest and politically dominant ethnic group?
+[ANSWER]:the Javanese
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What happens when the srivijaya kingdom formed trade links?
+[ANSWER]:The indonesian archipelago became an important trade region
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is it true that indonesia has vast areas of wilderness?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Indonesia a republic?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are Sports in Indonesia generally male-orientated?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Indonesia the world's largest archipelagic state?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Are sports in Indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is Pencak Silat an Indonesian martial art ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Has Indonesia the world 's largest Muslim population ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who has its own political legislature and governor ?
+[ANSWER]:each province
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is it the world 's largest archipelagic state?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is it the world 's fourth most populous country and the most populous muslim-majority nation?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is indonesia a republic?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is James Monrow the fifth president of US?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is James Monrow the fifth president of US?
+[ANSWER]:Yes.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is the first word on the page?
+[ANSWER]:James
+<|endoftext|>
+
+
+<|startoftext|>
+[QUESTION]:What is the first number on the page?
+[ANSWER]:28
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is the first number on the page?
+[ANSWER]:28
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Monroe's presidency expired?
+[ANSWER]:March 4, 1825
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did Monroe's presidency expired?
+[ANSWER]:March 4, 1825.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe's father's name?
+[ANSWER]:Spence
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe's father's name?
+[ANSWER]:Spence Monroe.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe's daughter's name?
+[ANSWER]:Maria Hester Monroe Gouverneur
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe's daughter's name?
+[ANSWER]:Maria Hester Monroe Gouverneur
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What does "Era of Good Feelings" refers to?
+[ANSWER]:Reduced tension
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What does "Era of Good Feelings" refers to?
+[ANSWER]:Monroe allowed his political base to decay, which reduced tensions and led to the naming of his era as the "Era of Good Feelings".
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Monroe' wedding happen at the Trinity Church in New York?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did Monroe' wedding happen at the Trinity Church in New York?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe Doctrine?
+[ANSWER]:A doctrine declaring U.S. opposition to European interference in the Americas.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What is Monroe Doctrine?
+[ANSWER]:In it, Monroe proclaimed the Americas should be free from future European colonization and free from European interference in 
+<|endoftext|>sovereign countries' affairs. It further stated the United States' intention to stay neutral in European wars and wars between European powers and their colonies, but to consider any new colonies or interference with independent countries in the Americas as hostile acts toward the United States. 
+
+<|startoftext|>
+[QUESTION]:Was James Monroe President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was James Monroe President of the United States?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did James Monroe attend the College of William and Mary?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did James Monroe attend the College of William and Mary?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did James Monroe fight in the Continental Army?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Did James Monroe fight in the Continental Army?
+[ANSWER]:Yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Where was James Monroe born?
+[ANSWER]:Westmoreland County, Virginia
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Where was James Monroe born?
+[ANSWER]:Westmoreland County, Virginia
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Where was James Monroe shot?
+[ANSWER]:at the Battle of Trenton, in his left shoulder
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Where was James Monroe shot?
+[ANSWER]:The Battle of Trenton
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who did James Monroe marry?
+[ANSWER]:Elizabeth Kortright
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who did James Monroe marry?
+[ANSWER]:Elizabeth Kortright
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What did James Monroe do before being elected governor?
+[ANSWER]:He practiced law in Virginia.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What did James Monroe do before being elected governor?
+[ANSWER]:He practiced law
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:In which years were John Monroe elected as President?
+[ANSWER]:1817-1825
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:In which years were John Monroe elected as President?
+[ANSWER]:1817-1825
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who was John Monroe standing behind in the painting ofWashington Crossing the Delaware?
+[ANSWER]:George Washington
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who was John Monroe standing behind in the painting ofWashington Crossing the Delaware?
+[ANSWER]:George Washington
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When was James Monroe appointed to Secretary of War?
+[ANSWER]:1814
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When was James Monroe appointed to Secretary of War?
+[ANSWER]:
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did James Monroe die?
+[ANSWER]:July 4, 1831
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did James Monroe graduate from William and Mary?
+[ANSWER]:1776
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When was James Monroe elected president?
+[ANSWER]:Monroe was elected president in the election of 1816, and re-elected in 1820.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When was James Monroe elected president?
+[ANSWER]:
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which property did James Monroe sell in 1817?
+[ANSWER]:Monroe Hill on the grounds of the University of Virginia.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:When did James Monroe introduce the Monroe Doctrine?
+[ANSWER]:December 2, 1823
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who did James Monroe live with in New York City?
+[ANSWER]:His daughter Maria Hester Monroe Gouverneur
+<|endoftext|>
+
+
+<|startoftext|>
+[QUESTION]:What did James Monroe's letters not contain?
+[ANSWER]:No letters survive in which he might have discussed his religious beliefs.
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What was the result of the rejection of the Jay Treaty?
+[ANSWER]:As a result, the two nations moved closer toward the War of 1812. 
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who is depicted holding the flag in the famous painting of Washington Crossing the Delaware?
+[ANSWER]:Monroe
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What dwindled and eventually died out, starting with the Hartford Convention?
+[ANSWER]:The Federalist Party
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Is it true that he practiced law in fredericksburg?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What did James Monroe make in 1817?
+[ANSWER]:two long tours
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Monroe anticlerical?
+[ANSWER]:no
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Was Monroe appointed Minister to France from 1794 to 1796?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What expired on March?
+[ANSWER]:Monroe's presidency
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Had Monroe racked up many debts during his years of public life ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Who dismantled partisan and sectional coalitions ?
+[ANSWER]:many congressmen
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:Had Monroe racked up many debts during his years of public life ?
+[ANSWER]:yes
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What happened in 1811?
+[ANSWER]:Monroe returned to the Virginia House of Delegates and was elected to another term as governor of Virginia
+<|endoftext|>
+
+<|startoftext|>
+[QUESTION]:What happened in the election of 1816?
+[ANSWER]:Monroe was elected president
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who died in childbirth in 1772?
+[ANSWER]:Margaret Miller
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who died in 1832?
+[ANSWER]:Margaret Miller.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is watt commemorated by statuary in George Square, Glasgow and Princes Street, Edinburgh?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was watt a gentleman, greatly respected by other prominent men of the Industrial Revolution?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was watt a fellow of the Royal Society of Edinburgh and the Royal Society of London?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Four years after opening his shop , Watt began what?
+[ANSWER]:Watt began to experiment with steam after his friend, Professor John Robison, called his attention to it.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Watt ranked 22nd in Michael H. Hart 's list of the most influential figures in history ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams represent the Continental Congress in Europe?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams represent the Continental Congress in Europe?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams raised Congregationalist?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams raised Congregationalist?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams an opponent of the Stamp Act?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams an opponent of the Stamp Act?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Adams graduate from college?
+[ANSWER]:1755.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Adams graduate from college?
+[ANSWER]:1755
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was on the committee with Adams to drafta Declaration of Independence?
+[ANSWER]:Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was on the committee with Adams to drafta Declaration of Independence?
+[ANSWER]:Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Jefferson call John Adams?
+[ANSWER]:The "Colossus of Independence".
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Jefferson call John Adams?
+[ANSWER]:Colossus of Independence
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Adams' political party?
+[ANSWER]:The Federalist Party.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Adams' political party?
+[ANSWER]:Federalist
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams the first to introduce a bicameral legislature?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Adams the first to introduce a bicameral legislature?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams get along with Alexander Hamilton?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams get along with Alexander Hamilton?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams go to Harvard?
+yes
+<|startoftext|>
+[QUESTION]:Did John Adams go to Harvard? 
+Yes
+<|startoftext|>
+[QUESTION]:Did John Adams support the Stamp Act of 1765?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did John Adams support the Stamp Act of 1765?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Adams' birthplace part of a national park?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Adams' birthplace part of a national park?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did John Adams serve as Vice President?
+[ANSWER]:1789-1797
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did John Adams serve as Vice President?
+[ANSWER]:1789-1797
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:With what party did Adams run for presidency?
+[ANSWER]:The Federalist Party
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:With what party did Adams run for presidency?
+[ANSWER]:The Federalist Party
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Adams buried?
+[ANSWER]:United First Parish Church
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Adams buried?
+[ANSWER]:United First Parish Church
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who were the midnight judges?
+[ANSWER]:They were a series of judges, so called because most of them were formally appointed days before Adams' presidential term expired
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who were the midnight judges?
+[ANSWER]:They were judges formally appointed days before Adams term expired
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:In what ways was Adams opposed by Anderw Hamilton?
+[ANSWER]:Hamilton wanted to control the army differently than Adams
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What information did he record in his diary?
+[ANSWER]:Descriptions of events and ompressions of men
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What information did he record in his diary?
+[ANSWER]:He wrote descriptions of events and impressions of men
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was defeated for re-election in the`` Revolution of 1800'' by Thomas Jefferson?
+[ANSWER]:John Adams
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who represented the Continental Congress in Europe?
+[ANSWER]:John Adams
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is now part of Adams National Historical Park?
+[ANSWER]:John Adams' birthplace
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that adams had spent some time as the ambassador?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that massachusetts sent him in 1774?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Massachusetts send in 1774?
+[ANSWER]:John Adams
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are his last words often quoted as " Thomas Jefferson survives " . ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The John Adams Library , housed at the Boston Public Library , contains what?
+[ANSWER]:Adams's personal collection of more than 3,500 volumes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Adams ' opponents were what?
+[ANSWER]:Democratic Republicans
+<|endoftext|>
+<|startoftext|>Did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its 
+[QUESTION]:policies ?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1764?
+[ANSWER]:Adams married Abigail Smith
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a kangaroo a reptile?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a kangaroo a reptile?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a kangaroo on the Australian coat of arms?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a kangaroo on the Australian coat of arms?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was James Cook the first to record the name "Kangooroo?
+yes
+<|startoftext|>
+[QUESTION]:Was James Cook the first to record the name "Kangooroo?
+Yes
+<|startoftext|>
+[QUESTION]:What is a collective noun for kangaroos?
+[ANSWER]:mob, troop, or court
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a collective noun for kangaroos?
+[ANSWER]:Mob, troop, or court
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do joeys complete postnatal development?
+[ANSWER]:marsupium
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do joeys complete postnatal development?
+[ANSWER]:A pouch called a marsupium
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do kangaroos use for "crawl-walking?
+[ANSWER]:its hind feet
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do kangaroos use for "crawl-walking?
+[ANSWER]:Their hind feet and their tails
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why do kangaroos have a wide bite?
+[ANSWER]:The two sides of the lower jaw are not joined together and the lower incisors are farther apart.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why do kangaroos have a wide bite?
+[ANSWER]:Because of grazing
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is responsible for converting the hydrogen byproduct of fermentation into acetate?
+[ANSWER]:bacteria
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is responsible for converting the hydrogen byproduct of fermentation into acetate?
+<|startoftext|>
+[ANSWER]:The digestive system of a [QUESTION]:Are wild kangaroos shot for meat?
+<|endoftext|>
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are wild kangaroos shot for meat?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have kangaroos fared well since European settlement?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have kangaroos fared well since European settlement?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do kangaroos have many natural predators?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do kangaroos have many natural predators?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the average life expectancy of a kangaroo?
+[ANSWER]:4.6 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the average life expectancy of a kangaroo?
+[ANSWER]:about 4.6 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did the first official report of kangaroo blindness take place?
+[ANSWER]:1994
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did the first official report of kangaroo blindness take place?
+[ANSWER]:1994
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are vehicles that frequent isolated roads often fitted with?
+[ANSWER]:roo bars
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are vehicles that frequent isolated roads often fitted with?
+[ANSWER]:"roo bars"
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do kangaroos eat plants?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do kangaroos eat plants?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are some extinct predators of the kangaroo?
+[ANSWER]:Thylacine, Marsupial Lion, Maagalania, and Wonambi
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are some extinct predators of the kangaroo?
+[ANSWER]:The Thylacine
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a Kangaroo a Marsupial?
+<|startoftext|>
+[ANSWER]:[QUESTION]:Is a Kangaroo a Marsupial?
+<|endoftext|>
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the kangaroo an herbivour?
+<|startoftext|>
+[ANSWER]:[QUESTION]:Is the kangaroo an herbivour?
+<|endoftext|>
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Kangaroos Shy?
+<|startoftext|>
+[ANSWER]:[QUESTION]:Are Kangaroos Shy?
+<|endoftext|>
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What method of locomotion do Kangaroos Use?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What method of locomotion do Kangaroos Use?
+<|endoftext|>
+[ANSWER]:hopping
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the average life expectancy of a kangaroo?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What is the average life expectancy of a kangaroo?
+<|endoftext|>
+[ANSWER]:4 to 6 years
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a collective noun for a kangaroo?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What is a collective noun for a kangaroo?
+<|endoftext|>
+[ANSWER]:a mob, troop, or court
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a roo?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What is a roo?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:a [QUESTION]:What is used to protect a vehicale from a Kangaroo?
+<|endoftext|>
+<|startoftext|>
+[ANSWER]:[QUESTION]:What is used to protect a vehicale from a Kangaroo?
+<|endoftext|>
+[ANSWER]:roo bars
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What method is used by Kangaroos to travel?
+<|startoftext|>
+[ANSWER]:[QUESTION]:What method is used by Kangaroos to travel?
+<|endoftext|>
+[ANSWER]:hopping
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who asked a nearby local what the creatures were called?
+[ANSWER]:Captain James Cook and naturalist Sir Joseph Banks
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are four species that are commonly referred to as kangaroos?
+<|startoftext|>
+[ANSWER]:The Red Kangaroo, The Eastern Grey Kangaroo, The Western Grey Kangaroo, and The Antilopine [QUESTION]:Are kangaroos and wallabies 
+<|endoftext|>adept swimmers?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are kangaroos farmed to any extent?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?
+[ANSWER]:Veterinarians
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Different species of kangaroos eat what?
+[ANSWER]:different diets
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have Kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a collision with a vehicle capable of killing a kangaroo ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was the game of Marn grook played using a ball made from kangaroo by the Kurnai people ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a kangaroo a marsupial from the family macropodidae -LRB- macropods , meaning (`` ` large foot ('' ' -RRB-?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What kinds of changes have larger kangaroos adapted much better to?
+[ANSWER]:Changes wrought to the Australian landscape by humans.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have larger kangaroos adapted much better to changes?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard smaller than the other members of Panthera?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard smaller than the other members of Panthera?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a leopard larger and less lanky than a cheetah?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a leopard larger and less lanky than a cheetah?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are large pythons potential prey for leopards?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are large pythons potential prey for leopards?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What may a leopard be mistaken for?
+[ANSWER]:A cheetah or a jaguar
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What may a leopard be mistaken for?
+[ANSWER]:A cheetah or a jaguar
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a hybrid animal resulting from a union between a leopard and a puma?
+[ANSWER]:a pumapard
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is a hybrid animal resulting from a union between a leopard and a puma?
+[ANSWER]:A pumapard
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do leopards often hide their kills?
+[ANSWER]:in dense vegetation
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do leopards often hide their kills?
+[ANSWER]:in dense vegetation or in trees
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did early naturalists distinguish between leopards and panthers?
+[ANSWER]:by the length of their tails
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did early naturalists distinguish between leopards and panthers?
+[ANSWER]:By the length of the tail, panthers having longer tails than leopards
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are dark leopards known as colloquially?
+[ANSWER]:Black Panthers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are dark leopards known as colloquially?
+[ANSWER]:black panthers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What shape are a leopard's black rosettes in East Africa?
+[ANSWER]:circular
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What shape are a leopard's black rosettes in East Africa?
+[ANSWER]:circular
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard an Old World mammal?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard an Old World mammal?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard an Old World mammal?
+[ANSWER]:.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard of the Felidae family?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard of the Felidae family?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard of the Felidae family?
+<|startoftext|>
+[QUESTION]:Is the leopard one of the four 'big cats'?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard one of the four 'big cats'?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard one of the four 'big cats'?
+<|startoftext|>
+[QUESTION]:Where is the leopard distributed?
+[ANSWER]:southern Eurasia and Africa
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is the leopard distributed?
+[ANSWER]:southern Eurasia and Africa, from Korea to South Africa and Spain
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is the leopard distributed?
+<|startoftext|>
+[QUESTION]:How long is a leopard's tail?
+[ANSWER]:60 to 110cm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How long is a leopard's tail?
+[ANSWER]:60-110cm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How long is a leopard's tail?
+<|startoftext|>
+[QUESTION]:How much does a leopard weigh?
+[ANSWER]:Males are considerably larger than females and weigh 37 to 90 kg compared to 28 to 60 kg for females. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much does a leopard weigh?
+[ANSWER]:(because of ambiguity) - 28-90kg 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much does a leopard weigh?
+<|startoftext|>
+[QUESTION]:Does a male leopard weigh more than a female leopard?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does a male leopard weigh more than a female leopard?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does a male leopard weigh more than a female leopard?
+<|startoftext|>
+[QUESTION]:What is the difference between leopards and cheetahs?
+[ANSWER]:The leopard has rosettes rather than cheetah's simple spots and the leopard is larger and less lanky than the cheetah.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the difference between leopards and cheetahs?
+[ANSWER]:The leopard has rosettes rather than cheetah's simple spots, but they lack internal spots, unlike the jaguar. The leopard is 
+<|endoftext|>larger and less lanky than the cheetah but smaller than the jaguar.
+<|startoftext|>
+[QUESTION]:What is the difference between leopards and cheetahs?
+<|startoftext|>
+[QUESTION]:How does the distribution size of the leopard compare to the distribution of other wild cats?
+[ANSWER]:As of 1996, the leopard had the largest distribution of any wild cat, although populations before and since have shown a 
+<|endoftext|>declining trend and are fragmented outside of subsaharan Africa.
+<|startoftext|>
+[QUESTION]:How does the distribution size of the leopard compare to the distribution of other wild cats?
+[ANSWER]:the leopard had the largest distribution of any wild cat.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How does the distribution size of the leopard compare to the distribution of other wild cats?
+<|startoftext|>
+[QUESTION]:What resembles that of the similarly-sized cougar in the Americas?
+[ANSWER]:The leopard's ecological role
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was one of the many species described in Linnaeus's 18th-century work, Systema Naturae?
+[ANSWER]:Felis pardus
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What sort of cats are solitary?
+[ANSWER]:Leopards
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are leopards circular?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard solitary?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What centred in Sierra?
+[ANSWER]:The leopard men
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Felis pardus was what?
+[ANSWER]:One of the many species described in Linnaeus's 18th-century work, Systema Naturae
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has the New Zealand Rugby League featured the Otahuhu Leopards and then the Tamaki Leopards ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Were the Leopard men a West African secret society who practised cannibalism ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was the leopard tank a German designed tank which entered service in 1965 ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the black color heritable and caused by only one recessive gene locus ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard -LRB- panthera pardus -RRB- an old world mammal of the felidae family and the smallest of the four big cats of the genus panthera , along with the tiger , lion , and jaguar?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can a panther be any of several species of large felid?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the leopard an agile and graceful predator?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein bordered by Switzerland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein bordered by Switzerland?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein the smallest German-speaking country in the world?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein the smallest German-speaking country in the world?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Liechtenstein part of the ancient Roman province of Raetia?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Liechtenstein part of the ancient Roman province of Raetia?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was the first factory opened?
+[ANSWER]:1836
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was the first factory opened?
+[ANSWER]:1836
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many municipalities is Liechtenstein divided into?
+[ANSWER]:11
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many municipalities is Liechtenstein divided into?
+[ANSWER]:11
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the national currency of Liechtenstein?
+[ANSWER]:Swiss franc
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the national currency of Liechtenstein?
+[ANSWER]:Swiss franc
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Leichtenstein worked to promote the county's image by prosecuting international money-laundering?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What company administers Leichtenstein's railways?
+[ANSWER]:Austrian Federal Railways
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What company administers Leichtenstein's railways?
+[ANSWER]:Austrian Federal Railways
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What percentage of Liechtenstein's population is foreign-born?
+[ANSWER]:two-thirds
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What percentage of Liechtenstein's population is foreign-born?
+[ANSWER]:67%
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is there an airport in Liechtenstein?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is there an airport in Liechtenstein?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein heavily urbanized?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein heavily urbanized?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein doubly landlocked?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein doubly landlocked?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Liechtenstein have an army?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Liechtenstein have an army?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Liechtenstein's current constitution adopted?
+[ANSWER]:October 1921.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Liechtenstein's current constitution adopted?
+[ANSWER]:October 1921
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the official language of Liechtenstein?
+[ANSWER]:German.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the official language of Liechtenstein?
+[ANSWER]:German
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What countries border Liechtenstein?
+[ANSWER]:Switzerland and Austria.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What countries border Liechtenstein?
+[ANSWER]:Switzerland and Austria
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What Roman province was Liechtenstein part of?
+[ANSWER]:Raetia.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What Roman province was Liechtenstein part of?
+[ANSWER]:Raetia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many municipalities are within Oberland?
+[ANSWER]:6.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many municipalities are within Oberland?
+[ANSWER]:6
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the smallest German-speaking country in the world?
+<|startoftext|>
+[QUESTION]:The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?
+[ANSWER]:1861
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What enjoys one of the world's highest standards of living?
+[ANSWER]:Liechtenstein's population
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the state court rule on the conformity of laws?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do most recognizable international company and largest employer have in common?
+[ANSWER]:They are Hilti.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Liechtenstein heavily urbanized?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Liechtenstein completed in November 2000?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What completed in November?
+<|startoftext|>
+[QUESTION]:the Kunstmuseum The State Court rules what?
+[ANSWER]:on the conformity of laws with the constitution
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The Historical Society of the Principality of Liechtenstein plays what?
+[ANSWER]:a role in preserving the culture and history of the country.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the museum collection also the national art collection of Liechtenstein ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is there a small heliport at Balzers in Liechtenstein available for charter helicopter flights ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are nationals referred to by the plural : Liechtensteiners ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it a winter sports resort , although it is perhaps best known as a tax haven ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it a winter sports resort?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it the smallest german-speaking country in the world?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?
+[ANSWER]:The Liechtenstein Dynasty acquired vast swaths of land
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Webster write, "I can now sleep of nights"?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Webster write, "I can now sleep of nights"?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was the arrival of Louis Kossuth (exiled leader of a failed Hungarian revolution) another issue that presented itself during Fillmore's presidency?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he die at 11:10 p.m. on March 8, 1874, of the after-effects of a stroke?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who got Seward elected to the senate?
+[ANSWER]:Weed
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who got Seward elected to the senate?
+[ANSWER]:Weed ultimately got Seward elected to the senate
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[ANSWER]:Japan
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Commodore Matthew C. Perry sent to open Japan to Western trade?
+[ANSWER]:Commodore Matthew C. Perry send to Japan
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is The Remarkable Millard Fillmore?
+[ANSWER]:A fake biography based on real events that happened in Fillmore's life.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is The Remarkable Millard Fillmore?
+[ANSWER]:In 2007, George Pendle wrote The Remarkable Millard Fillmore, a fake biography based on real events that happened in Fillmore's 
+<|endoftext|>life
+<|startoftext|>
+[QUESTION]:Did Fillmore form a law partnership before or after he founded the private University of Buffalo?
+[ANSWER]:Before.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Fillmore form a law partnership before or after he founded the private University of Buffalo?
+[ANSWER]:Law partnership founded before University of Buffalo
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Fillmore run for President a second time?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Fillmore run for President a second time?
+[ANSWER]:I don't know (semantic ambiguity)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How long after the death of his first wife did Fillmore marry Caroline McIntosh?
+<|startoftext|>
+[QUESTION]:where is the death date of his first wife?
+[ANSWER]
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore the thirteenth President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore the thirteenth President of the United States?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore the thirteenth President of the United States?
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore born on January 7, 1800?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore born on January 7, 1800?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Millard Fillmore born on January 7, 1800?
+<|startoftext|>
+[QUESTION]:Did Millard Fillmore die on March 8, 1974?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Millard Fillmore die on March 8, 1974?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Millard Fillmore die on March 8, 1974?
+<|startoftext|>
+[QUESTION]:Where was Millard Fillmore born?
+[ANSWER]:in a log cabin in Summerhill, New York
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Millard Fillmore born?
+[ANSWER]:in a log cabin in Summerhill, New York
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Millard Fillmore born?
+<|startoftext|>
+[QUESTION]:To whom was Millard Fillmore born to?
+[ANSWER]:to Nathaniel and Phoebe Millard Fillmore
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:To whom was Millard Fillmore born to?
+[ANSWER]:to Nathaniel and Phoebe Millard Fillmore
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:To whom was Millard Fillmore born to?
+<|startoftext|>
+[QUESTION]:Who did Millard Fillmore fall in love with?
+[ANSWER]:He fell in love with Abigail Powers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Millard Fillmore fall in love with?
+[ANSWER]:Abigail Powers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Millard Fillmore fall in love with?
+<|startoftext|>
+[QUESTION]:What did Taylor and Fillmore disagree upon?
+[ANSWER]:slavory issues
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Taylor and Fillmore disagree upon?
+[ANSWER]:Taylor and Fillmore disagreed on the slavery issue in the new western territories taken from Mexico in the Mexican-American War
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Taylor and Fillmore disagree upon?
+<|startoftext|>
+[QUESTION]:How did Fillmore ascend to the presidency?
+[ANSWER]:upon the death of the sitting president, Taylor
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did Fillmore ascend to the presidency?
+[ANSWER]:Official White House portrait of Millard FillmoreFillmore ascended to the presidency upon the sudden and unexpected death of 
+<|endoftext|>President Taylor in July 1850.
+<|startoftext|>
+[QUESTION]:How did Fillmore ascend to the presidency?
+<|startoftext|>
+[QUESTION]:How did the supporters of Henry Clay feel about Fillmore in 1848?
+[ANSWER]:they were ok with him
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did the supporters of Henry Clay feel about Fillmore in 1848?
+[ANSWER]:angry
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did the supporters of Henry Clay feel about Fillmore in 1848?
+<|startoftext|>
+[QUESTION]:Who was first apprenticed to a fuller to learn the cloth-making trade?
+[ANSWER]:millard fillmore
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:He founded the private university of buffalo on what date?
+[ANSWER]:1846
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who or what fell in love with abigail powers?
+[ANSWER]:millard fillmore
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Fillmore one of the founders of the University of Buffalo?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Another primary objective of Fillmore to preserve the Union from the intensifying slavery debate?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Fillmore the second Chancellor, a position he maintained while both Vice President and President?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Fillmore the first of two presidents to have been an indentured servant ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the comic strip Mallard Fillmore named after the president ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Fillmore the first U.S. President born after the death of a former president ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in a log cabin in summerhill , new york?
+[ANSWER]:Fillmore was born
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was born precisely at midnight during an electrical storm , to a Serbian family in the village of Smiljan near Gospić , in the Lika region of the Croatian Krajina in Military Frontier ( part of the Austrian Empire ) , in the present-day Croatia . ?
+[ANSWER]:Nikola Tesla
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are there at least two films describing Tesla 's life ?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have a number of live theatrical plays based on Tesla 's life been produced and staged worldwide ?
+[ANSWER]:yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do sea otters have long muscular tails?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do sea otters have long muscular tails?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can otters survive in cold water?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can otters survive in cold water?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the giant otter inhabit South Africa?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the giant otter inhabit South Africa?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of otter are there?
+[ANSWER]:13
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of otter are there?
+[ANSWER]:13
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do river otters eat?
+[ANSWER]:a variety of fish and shellfish, as well as small land mammals and birds
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do river otters eat?
+[ANSWER]:a variety of fish and shellfish, as well as small land mammals and birds
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much do sea otters weigh?
+[ANSWER]:30 kg (about 65 pounds)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much do sea otters weigh?
+[ANSWER]:30 kg (about 65 pounds)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do sea otters insulate themselves?
+[ANSWER]:a layer of air trapped in their fur(!)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do sea otters insulate themselves?
+[ANSWER]:As with other species of otter, they rely on a layer of air trapped in their fur, which they keep topped up by blowing into the 
+<|endoftext|>fur from their mouths.
+<|startoftext|>
+[QUESTION]:Why are sea otters nearly extinct?
+[ANSWER]:They've been hunted for their fur
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are sea otters nearly extinct?
+[ANSWER]:Sea otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+[ANSWER]:roadkill deaths
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is one of the challenges of re-establishing a population of Eurasian otters in the UK?
+[ANSWER]:Roadkill deaths have become one of the significant threats to the success of their re-establishment. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is otter a kind of mammal?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is otter a kind of mammal?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species and genera does otter have?
+[ANSWER]:13 species and 7 genera
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species and genera does otter have?
+[ANSWER]:13 species in 7 genera.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do otters live in water?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do otters live in water?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do river otters eat?
+[ANSWER]:River otters eat a variety of fish and shellfish, as well as small land mammals and birds. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do river otters eat?
+[ANSWER]:River otters eat a variety of fish and shellfish, as well as small land mammals and birds.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do sea otters live?
+[ANSWER]:Sea otters (Enhydra lutris) live along the Pacific coast of North America. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do sea otters live?
+[ANSWER]:The sea otter lives actually in the sea. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where does the word "otter" derive from?
+[ANSWER]:The word "otter" derives from the Old English word otr, otor or oter. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where does the word "otter" derive from?
+[ANSWER]:The word "otter" derives from the Old English word otr, otor or oter. This and cognate words in other Indo-European languages 
+<|endoftext|>ultimately stem from a root which also gave rise to the English words "water", "wet" and "winter". 
+<|startoftext|>
+[QUESTION]:Does otter give birth or lay egg?
+[ANSWER]:give birth
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What drives sea otter almost to extinction?
+[ANSWER]:Humans hunted them almost to extinction. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What drives sea otter almost to extinction?
+[ANSWER]:Sea otters have some 200,000 hairs per square cm of skin, a rich fur for which humans hunted them almost to extinction. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why otters are considered as totem animals?
+[ANSWER]:The time of year associated with this is also associated with the Aquarius sign of the Zodiac, through which the sun passes 
+<|endoftext|>January 20-February 19. 
+<|startoftext|>
+[QUESTION]:Do sea otters live along the Pacific coast?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do sea otters live along the Pacific coast?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are otters totem animals?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are otters herbivores?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are otters herbivores?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the primary item in an otter's diet?
+[ANSWER]:Fish.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the primary item in an otter's diet?
+[ANSWER]:fish
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is an otter's den called?
+[ANSWER]:Holt
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is an otter's den called?
+[ANSWER]:holt
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why is the giant otter becoming increasingly rare?
+[ANSWER]:Poaching, habitat loss, and toxins in gold mining.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why is the giant otter becoming increasingly rare?
+[ANSWER]:poaching, habitat loss, and the use of mercury in illegal alluvial gold mining
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do otters keep themselves warm without blubber?
+[ANSWER]:A layer of air trapped in their fur.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do otters keep themselves warm without blubber?
+[ANSWER]:a layer of air trapped in their fur
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How are otters playful animals?
+[ANSWER]:The slide down snowy slopes, apparently for sheer enjoyment.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How are otters playful animals?
+[ANSWER]:They slide repeatedly down snowy slopes for sheer enjoyment.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What animals are related to otters?
+[ANSWER]:weasels, polecats, and badgers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What traps a layer of air, and keeps them dry and warm under water?
+[ANSWER]:Long guard hair
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The collective noun romp is sometimes used for a group of what?
+[ANSWER]:Otters
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that otters eat a variety of fish?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are otters playful animals?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are otters very active?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are male otters dog-otters?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:An otter 's den is what?
+[ANSWER]:A holt
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Sea otters eat what?
+[ANSWER]:Shellfish and other invertebrates
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the myth of Otter 's Ransom the starting point of the Volsunga saga ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Male otters dog-otters , females are bitches and babies are cubs or pups ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is an otter 's den called a holt ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins feed on krill?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins feed on krill?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest living species of penguin?
+<|startoftext|>
+[QUESTION]:Emperor What is the largest living species of penguin?
+[ANSWER]:the Emperor Penguin (Aptenodytes forsteri)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins live almost exclusively in the Southern Hemisphere?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins live almost exclusively in the Southern Hemisphere?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is "tobogganing"?
+[ANSWER]:when penguins slide on their bellies across the snow
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is "tobogganing"?
+[ANSWER]:Tobogganing is when penguins slide on their bellies across the snow.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are penguins countershaded?
+[ANSWER]:for camouflage
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are penguins countershaded?
+[ANSWER]:for camouflage
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins afraid of humans?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins afraid of humans?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much time to penguins spend on land?
+[ANSWER]:half of their life
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much time to penguins spend on land?
+[ANSWER]:They spend half of their life on land.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of penguins are there?
+[ANSWER]:between 17 and 20 living species
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many species of penguins are there?
+[ANSWER]:Penguin biodiversity varies between 17 and 20 living species, all in the subfamily Spheniscinae.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How are Isabelline penguins different from most penguins?
+[ANSWER]:they have brown rather than black plumage
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How are Isabelline penguins different from most penguins?
+[ANSWER]:Because they are born with brown rather than black plumage.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins birds?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins birds?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins have a better than average sense of hearing for birds?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do penguins have a better than average sense of hearing for birds?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins considered "higher waterbirds"?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins considered "higher waterbirds"?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What order do penguins belong to?
+[ANSWER]:Sphenisciformes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What order do penguins belong to?
+[ANSWER]:Sphenisciformes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest living species of penguin?
+<|startoftext|>
+[QUESTION]:Emperor What is the largest living species of penguin?
+[ANSWER]:Emperor
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How tall were the tallest prehistoric penguins?
+[ANSWER]:1.80 meters
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How tall were the tallest prehistoric penguins?
+[ANSWER]:as tall as an adult human
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What makes penguins so agile in the water?
+[ANSWER]:Their wings have become flippers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What makes penguins so agile in the water?
+[ANSWER]:Smooth plumage preserves a layer of air, ensuring buoyancy, wings are flippers
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why do penguins "tobaggan"?
+[ANSWER]:It conserves energy while moving quickly
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why do penguins "tobaggan"?
+[ANSWER]:Conserves energy while moving quickly
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who spend half of their life on land and half in the oceans?
+[ANSWER]:Penguins
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is also the distance that Antarctic tourists are told to keep from penguins?
+[ANSWER]:3 meters
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What have become flippers, useless for flight in the air?
+[ANSWER]:Penguins' wings
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happens when mothers lose a chick?
+[ANSWER]:They sometimes attempt to "steal" another chick.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that each penguin gets a turn in the center?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are all penguins countershaded?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins astonishingly agile?
+[ANSWER]:In the water they are.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are penguins at risk?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it also possible that penguin comes from the Latin pinguis , fat ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have penguins an average sense of hearing for birds ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can larger penguins dive deep in case of need ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the smallest penguin species the Little Blue Penguin -LRB- also known as the Fairy Penguin -RRB- , which stands around 40 cm tall -LRB-16 in -RRB- and weighs 1 kg -LRB- 2.2 lb -RRB- ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted Palaeeudyptinae and the Anthropornithinae ?
+[ANSWER]:It is not even known.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the largest living species the emperor penguin -LRB- aptenodytes forsteri -RRB-?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the smallest penguin species the little blue penguin -LRB- also known as the fairy penguin -RRB- , which stands around 40 cm tall -LRB- 16 in -RRB- and weighs 1 kg -LRB- 2?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in a region not quite 2000 km south of the equator 35 mya?
+[ANSWER]:At least one giant penguin.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the last word on the page?
+[ANSWER]:Connecticut
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the last word on the page?
+[ANSWER]:(SSN-22)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is polar bear a mammal?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is polar bear a mammal?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is polar bear a carnivore?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is polar bear a carnivore?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is largest polar bear on record?
+[ANSWER]:2200 lb
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is largest polar bear on record?
+[ANSWER]:A huge male, allegedly weighing 1002 kg (2200 lb) shot at Kotzebue Sound in northwestern Alaska in 1960.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is polar bear's skin color?
+[ANSWER]:white or cream
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is polar bear's skin color?
+[ANSWER]:Black
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How long is polar bear's guard hair?
+[ANSWER]:5-15 cm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How long is polar bear's guard hair?
+[ANSWER]:5-15 cm
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is cause of polar bear's skin diseases?
+[ANSWER]:mites or other parasites
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is cause of polar bear's skin diseases?
+[ANSWER]:Mites or other parasites
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why polar bear is a special species?
+[ANSWER]:The World Conservation Union listed polar bears as a vulnerable species, one of three sub-categories of threatened status, in May 
+<|endoftext|>2006. Their latest estimate is that 7 out of 19 subpopulations are declining or already severely reduced.
+<|startoftext|>
+[QUESTION]:What do fossil and DNA evidence tell us?
+[ANSWER]:The polar bear diverged from the brown bear about 200 thousand years ago.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do fossil and DNA evidence tell us?
+[ANSWER]:The polar bear diverged from the brown bear roughly 200 thousand years ago.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does a polar bear live in the Arctic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does a polar bear live in the Arctic?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a polar bear white in color?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a polar bear white in color?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a polar bear at high risk of extinction?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is a polar bear at high risk of extinction?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How heavy is a male polar bear?
+[ANSWER]:300-600 kg (660-1320 lb)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How heavy is a male polar bear?
+[ANSWER]:Most adult males weigh 350-650 kg
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How heavy was the largest polar bear on record?
+[ANSWER]:1002 kg (2200 lb) 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How heavy was the largest polar bear on record?
+[ANSWER]:He allegedly weighed 1002 kg
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What does a polar bear's fur provide?
+[ANSWER]:It provides the animal with effective camouflage.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What does a polar bear's fur provide?
+[ANSWER]:A polar bear's fur provides camouflage and insulation
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do female polar bears weight more than the male?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do female polar bears weight more than the male?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much weight do female polar bears gain during pregnancy?
+[ANSWER]:They gain double their weight.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much weight do female polar bears gain during pregnancy?
+[ANSWER]:They double their weight during pregnancy
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can polar bears be seen under infrared photography?
+[ANSWER]:Polar bears are nearly invisible under infrared photography.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can polar bears be seen under infrared photography?
+[ANSWER]:Only their breath and muzzles can be easily seen
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is actually black in color?
+[ANSWER]:A polar bear's skin.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What insulate it against the cold?
+[ANSWER]:Its think blubber and fur.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What includes a lengthy justification of why this species is listed as vulnerable?
+[ANSWER]:Database entry.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do with greenpeace and the natural resources defense council have in common?
+[ANSWER]:They filed lawsuits in California.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are studies insufficient evidence for global protection?
+[ANSWER]:It is arguable.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are polar bears excellent swimmers?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:A semi-aquatic marine mammal , the polar bear has what?
+[ANSWER]:It has adapted for life on a combination of land, sea, and ice.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Garbage is what?
+[ANSWER]:Garbage is now recycled or transported to Thompson, Manitoba.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The bears sometimes what?
+[ANSWER]:They sometimes have problems with various skin diseases with dermatitis caused sometimes by mites or other parasites.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Polar Bear the mascot of Bowdoin college ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Mitchell Taylor , the Nunavut Government Manager of Wildlife Research , not write a letter to the U.S. Fish and Wildlife Service arguing that local studies are insufficient evidence for global protection at this time ?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Cubs born in December without awakening the mother ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Qatar rank as the eighth richest country in the world per capita?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Qatar rank as the eighth richest country in the world per capita?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do nearly all Qataris profess Islam?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do nearly all Qataris profess Islam?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can women legally drive in Qatar?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can women legally drive in Qatar?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Qatar become an independent state?
+[ANSWER]:September 3, 1971.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Qatar become an independent state?
+[ANSWER]:September 3, 1971
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Qatar's telecommunication system centered?
+[ANSWER]:Doha.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Qatar's telecommunication system centered?
+[ANSWER]:Doha
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did a suicide-bombing kill a teacher in 2005?
+[ANSWER]:At the Doha Players Theatre.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did a suicide-bombing kill a teacher in 2005?
+[ANSWER]:Doha Players Theatre
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the native pronunciation of Qatar sound like 'cutter'?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the native pronunciation of Qatar sound like 'cutter'?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the Arabic word for municipalities?
+[ANSWER]:baladiyah.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the Arabic word for municipalities?
+[ANSWER]:baladiyah
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What universities are in Education City?
+[ANSWER]:Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth 
+<|endoftext|>University, and Cornell University's Weill Medical College.
+<|startoftext|>
+[QUESTION]:What universities are in Education City?
+[ANSWER]:Carnegie Mellon University, Georgetown University School of Foreign Service, Texas A&M University, Virginia Commonwealth 
+<|endoftext|>University, and Cornell University
+<|startoftext|>
+[QUESTION]:What carried with it a tacit recognition of Qatar's status as distinct from Bahrain?
+[ANSWER]:The British Protectorate (per Colonel Lewis Pelly) asking to negotiate with a representative from Qatar after Bahrain's violation 
+<|endoftext|>of the 1820 Anglo-Bahraini Treaty.
+<|startoftext|>
+[QUESTION]:Qatar became an independent sovereign state in what year?
+[ANSWER]:On September 3, 1971.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What consists of a low, barren plain, covered with sand?
+[ANSWER]:Much of the country.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do qatar and the wider region relate?
+[ANSWER]:Qatar is aiming to become a role model for economic and social transformation in the region. Large scale investment in all social 
+<|endoftext|>and economic sectors will also lead to the development of a strong financial market.
+<|startoftext|>
+[QUESTION]:Was Qatar University founded in 1973?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Qatar bordered by Saudi Arabia to the south?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What bordered by Saudi?
+<|startoftext|>
+[QUESTION]:Who served as the headquarters and one of the main launching sites of the US invasion of Iraq in 2003 ?
+[ANSWER]:Qatar.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Qatar a modern Telecommunication system centered in Doha ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Qatar University founded in 1973 ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the Qataris not choose as their negotiator the respected entrepreneur and long-time resident of Doha , Muhammed bin Thani ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Will oil and gas probably remain the backbone of Qatar 's economy for some time to come ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has it been created with a long term perspective to support the development of Qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in these positions in english?
+[ANSWER]:These allophones cannot occur there.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can these allophones not occur in these positions in english?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is -RRB- , officially the state of qatar -LRB- arabic (: : transliterated as dawlat qatar -RRB- , an arab emirate in southwest asia?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania border Hungary?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania border Hungary?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Romania a secular state?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Romania a secular state?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the president elected by popular vote?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the president elected by popular vote?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many counties is Romania divided into?
+[ANSWER]:41.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many counties is Romania divided into?
+[ANSWER]:forty-one
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the highest mountain in Romania?
+[ANSWER]:Moldoveanu Peak.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the highest mountain in Romania?
+[ANSWER]:Moldoveanu Peak
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the official language of Romania?
+[ANSWER]:Romanian.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the official language of Romania?
+[ANSWER]:Romanian
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the Romanian economy doing well?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are there many Roma in Romania?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are there many Roma in Romania?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many territories joined to form Romania?
+[ANSWER]:2.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many territories joined to form Romania?
+[ANSWER]:2
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania share a border with Ukraine?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania share a border with Ukraine?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Romania declare neutrality during World War I?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Romania declare neutrality during World War I?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania share the same language with Moldova?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Romania share the same language with Moldova?
+[ANSWER]:Practically
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was the first gymnast to score a perfect "ten"?
+[ANSWER]:Nadia Comăneci
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was the first gymnast to score a perfect "ten"?
+[ANSWER]:Nadia Comăneci
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest city in Romania?
+[ANSWER]:Bucharest
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest city in Romania?
+[ANSWER]:Bucharest
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest ethnic minority in Romania?
+[ANSWER]:Hungarians
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the largest ethnic minority in Romania?
+[ANSWER]:Hungarians
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many countries in Europe are bigger than Romania?
+[ANSWER]:eleven
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many countries in Europe are bigger than Romania?
+[ANSWER]:Eleven
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why doesn't Romania have a state religion?
+[ANSWER]:Romania is a secular state
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why wasn't Romania neutral during World War II?
+[ANSWER]:it received a Soviet ultimatum
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why wasn't Romania neutral during World War II?
+[ANSWER]:The Soviets threatened invasion.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?
+[ANSWER]:2007
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are approximately 42,000 years old and have been nicknamed`` John of Anina''?
+[ANSWER]:the remains (the lower jaw) of the oldest modern human
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that romania has a population of 21,698,181?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do economy and law have in common?
+[ANSWER]:(not sure how to answer this)
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Tourism in Romania attract in 2005?
+[ANSWER]:investments worth 400 million euros
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Romania a secular state?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Romania a semi-presidential unitary state?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:RomaniaRomaniaIs Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Gellu Naum the leader of the surrealist movement in Romania ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was the Bucharest Metro only opened in 1979 ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is romania -LRB- , -RRB- a country in southeastern europe?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is romania a semi-presidential unitary state?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do singaporeans enjoy squid?
+[ANSWER]:Yes, they do.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do singaporeans enjoy squid?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do singaporeans enjoy squid?
+<|startoftext|>
+[QUESTION]:Did Singapore's standard of living decrease since independence?
+[ANSWER]:No, the standard living was raised.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Singapore's standard of living decrease since independence?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Singapore's standard of living decrease since independence?
+<|startoftext|>
+[QUESTION]:Did the media contribute 15.6% to Singapore's GDP in 2001?
+[ANSWER]:No, it contributed 1.56% to GDP in 2001.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the media contribute 15.6% to Singapore's GDP in 2001?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the media contribute 15.6% to Singapore's GDP in 2001?
+<|startoftext|>
+[QUESTION]:How many people use the bus network daily?
+[ANSWER]:More than 2.78 million people.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many people use the bus network daily?
+[ANSWER]:2.78 million people
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many people use the bus network daily?
+<|startoftext|>
+[QUESTION]:Where did Orang Laut people live?
+[ANSWER]:Orang Laut people lived around the coast, rivers and smaller islands.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Orang Laut people live?
+[ANSWER]:Several hundred indigenous Orang Laut people also lived around the coast, rivers and smaller islands.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Orang Laut people live?
+<|startoftext|>
+[QUESTION]:What is the MRT?
+[ANSWER]:One of three heavy rail passenger transport lines in Singapore.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the MRT?
+[ANSWER]:Mass Rapid Transit system
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the MRT?
+<|startoftext|>
+[QUESTION]:How is Singapore's climate characterized?
+[ANSWER]:Singapore has a tropical rainforest climate with no distinctive seasons.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How is Singapore's climate characterized?
+[ANSWER]:Its climate is characterized by uniform temperature and pressure, high humidity, and abundant rainfall
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How is Singapore's climate characterized?
+<|startoftext|>
+[QUESTION]:How much increase in the media's contribution to GDP is the government seeking?
+[ANSWER]:The government seeks to increase its GDP contribution to 3% by 2012. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much increase in the media's contribution to GDP is the government seeking?
+[ANSWER]:the government seeks to increase its GDP contribution to 3% by 2012. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much increase in the media's contribution to GDP is the government seeking?
+<|startoftext|>
+[QUESTION]:How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+[ANSWER]:Six days
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+[ANSWER]:6 days
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many days did it take the Imperial Japanese Army to win the Battle of Singapore?
+<|startoftext|>
+[QUESTION]:Is Singapore located at the southern tip of the Korean Penisula?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Singapore located at the southern tip of the Korean Penisula?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Singapore a city-state?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Singapore a city-state?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Sang Nila Utama visited Singapore?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Sang Nila Utama visited Singapore?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What does "singa" mean?
+[ANSWER]:lion
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When is the first record of settlement in Singapore?
+[ANSWER]:second century AD
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When is the first record of settlement in Singapore?
+[ANSWER]:The first records of settlement in Singapore are from the second century AD.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which nation invaded Singapore during World War II?
+[ANSWER]:Japan
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which nation invaded Singapore during World War II?
+[ANSWER]:During World War II, the Imperial Japanese Army invaded Malaya, culminating in the Battle of Singapore.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why Churchill called the occupation of Singapor by Janpan during WWII "Britain's greatest defeat"?
+[ANSWER]:The British were defeated in six days
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Lee Kuan Yew a successful leader of Singapore?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Lee Kuan Yew a successful leader of Singapore?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Goh Chok Tong succeed Lee as Prime Minister?
+[ANSWER]:In 1990, Goh Chok Tong succeeded Lee as Prime Minister.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Goh Chok Tong succeed Lee as Prime Minister?
+<|startoftext|>
+[QUESTION]:What is the primary domestic source of water supply?
+[ANSWER]:The primary domestic source of water supply in Singapore is rainfall.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the primary domestic source of water supply?
+<|startoftext|>
+[QUESTION]:What is the national language of Singapore?
+[ANSWER]:The national language of Singapore is Malay.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the national language of Singapore?
+<|startoftext|>
+[QUESTION]:Where is the National Orchid Garden?
+[ANSWER]:Singapore Botanic Gardens.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is the National Orchid Garden?
+<|startoftext|>
+[QUESTION]:Why are relations with Malaysia and Indonesia important?
+[ANSWER]:Due to obvious geographical reasons, relations with Malaysia and Indonesia are most important.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are relations with Malaysia and Indonesia important?
+<|startoftext|>
+[QUESTION]:What is the most densely populated independent country in the world?
+[ANSWER]:Monaco
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the most densely populated independent country in the world?
+<|startoftext|>
+[QUESTION]:Who did Sir Thomas Stamford Raffles work for?
+[ANSWER]:British East India Company
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Sir Thomas Stamford Raffles work for?
+<|startoftext|>
+[QUESTION]:When was Lee Kuan Yew prime minister of Singapore?
+[ANSWER]:1959
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Lee Kuan Yew prime minister of Singapore?
+<|startoftext|>
+[QUESTION]:What is the punishment for first-degree murder?
+[ANSWER]:There are laws which allow capital punishment in Singapore for first-degree murder and drug trafficking.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the punishment for first-degree murder?
+<|startoftext|>
+[QUESTION]:What established a trading post on the island in 1819?
+[ANSWER]:British East India Company 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What used Singapore as a strategic trading post along the spice route?
+[ANSWER]:British
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What became one of the most important commercial and military centres of the British Empire?
+<|startoftext|>
+[QUESTION]:Who boasted a sizeable community of 100,000 by 1869?
+[ANSWER]:British India office
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do reservoirs and water relate?
+[ANSWER]:By 2001, there were 19 raw water reservoirs, 9 treatment works and 14 storage or service reservoirs locally to serve domestic 
+<|endoftext|>needs. 
+<|startoftext|>
+[QUESTION]:Is it true that singapore has several long - standing disputes with malaysia?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Singapore Changi Airport a network of 81 airlines connecting Singapore to 185 cities in 58 countries ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has Singapore a network of reservoirs and water catchment areas ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>Has Urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being Bukit Timah 
+[QUESTION]:Nature Reserve ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>Is singapore -LRB- ; (: ; , -RRB- , officially the republic of singapore -LRB- ; (: ; , -RRB- , an island nation located at the southern [
+QUESTION]:tip of the malay peninsula?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is singapore the 17th wealthiest country in the world in terms of gdp per capita?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Thedore Roosevelta member of the Republican Party?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Thedore Roosevelta member of the Republican Party?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Theodore Roosevelt have a brother?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Theodore Roosevelt have a brother?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Theodore Roosevelt go to Harvard?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Theodore Roosevelt go to Harvard?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Theodore Roosevelt born?
+[ANSWER]:28 East 20th Street in the modern-day Gramercy section of New York City
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Theodore Roosevelt born?
+[ANSWER]:a four-story brownstone at 28 East 20th Street, in the modern-day Gramercy section of New York City
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Roosevelt do to improve his physical condition?
+[ANSWER]:Roosevelt took up exercise
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Roosevelt do to improve his physical condition?
+[ANSWER]:He started boxing
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Roosevelt start Boxing lessons?
+[ANSWER]:To deal with bullies
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Roosevelt start Boxing lessons?
+[ANSWER]:To deal with bullies
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was the nickname of Theodore Roosevelt's sister Anna?
+[ANSWER]:Bamie as a child and Bye as an adult
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was the nickname of Theodore Roosevelt's sister Anna?
+[ANSWER]:Bamie
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Roosevelt's justification for supporting desegregation of schools in New York?
+[ANSWER]:Noting that his children had been educated with other races and there was nothing wrong with it
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Roosevelt's justification for supporting desegregation of schools in New York?
+[ANSWER]:that his children had been educated with other races and there was nothing wrong with it
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+[ANSWER]:"mixing of the races on social occassions"
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How did newspapers respond to Roosevelt inviting Brooker T. Washington to dinner at the White House?
+[ANSWER]:They outraged.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Theodore Roosevelt study Judo?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Theodore Roosevelt study Judo?
+[ANSWER]:No clue
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt receive a Medal of Honor?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt receive a Medal of Honor?
+[ANSWER]:nein
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt study biology?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt study biology?
+[ANSWER]:He was strong in biology.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Theodore Roosevelt from?
+[ANSWER]:Gramercy section of New York City
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Theodore Roosevelt from?
+[ANSWER]:New York City
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was Roosevelt's presidential hero?
+[ANSWER]:Lincoln was Roosevelt's presidential hero.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was Roosevelt's presidential hero?
+[ANSWER]:Lincoln was Roosevelt's presidential hero
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Roosevelt die?
+[ANSWER]:On January 6, 1919, Roosevelt died in his sleep.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did Roosevelt die?
+[ANSWER]:On January 6, 1919, Roosevelt died in his sleep.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who helped to fund Roosevelt's African safari?
+[ANSWER]:Financed by Andrew Carnegie and his own proposed writings
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who helped to fund Roosevelt's African safari?
+[ANSWER]:Andrew Carnegie
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt support racial integration in schools?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Roosevelt support racial integration in schools?
+[ANSWER]:He supported a bill allowing school desegregation in New York State.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Roosevelt's family rich?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Roosevelt's family rich?
+<|startoftext|>
+[QUESTION]:Are turtles ectothermic?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles ectothermic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the mother care for the young?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the mother care for the young?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles pets?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles pets?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What shape are the eggs of the larest species of turtle?
+[ANSWER]:Spherical
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What shape are the eggs of the larest species of turtle?
+[ANSWER]:spherical
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How often do turtles breed?
+[ANSWER]:Every few years or more
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do all turtles and tortoises breathe?
+[ANSWER]:air
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do all turtles and tortoises breathe?
+[ANSWER]:air
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do turtles reproduce?
+[ANSWER]:They lay eggs
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do turtles reproduce?
+[ANSWER]:they lay eggs
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What has been discovered about turtles organs?
+[ANSWER]:They do not gradually break down or become less efficient over time
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What has been discovered about turtles organs?
+[ANSWER]:they do not break down
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What suborder of turtle draws its head into its shell?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What suborder of turtle draws its head into its shell?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do sea turtles lay eggs on dry sandy beaches?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do sea turtles lay eggs on dry sandy beaches?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Pleurodira known as side-necked turtles?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Pleurodira known as side-necked turtles?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles a part of the Flying Spaghetti Monster?
+[ANSWER]:*shrug*
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many suborders are turtles divided into?
+[ANSWER]:Three.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many suborders are turtles divided into?
+[ANSWER]:three
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name a turtle popularly kept as a pet.
+[ANSWER]:Russian Tortoises
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name a turtle popularly kept as a pet.
+[ANSWER]:Russian Tortoises
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name four related articles for the article on turtles.
+[ANSWER]:Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name four related articles for the article on turtles.
+[ANSWER]:Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:If a turtle egg was kept warm, what would likely hatch?
+[ANSWER]:A female turtle.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:If a turtle egg was kept warm, what would likely hatch?
+[ANSWER]:A female
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do turles use to breathe in the water?
+[ANSWER]:Papillae
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are side-necked turtles called side-necked turtles?
+[ANSWER]:Because of the way they withdraw their heads into their shells.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are side-necked turtles called side-necked turtles?
+[ANSWER]:The way they withdraw their heads into their shells.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do turtles lay eggs underwater?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Do turtles lay eggs underwater?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtle eggs leathery and soft?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtle eggs leathery and soft?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles being examined for longevity genes?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles being examined for longevity genes?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What suborder of turtles is extinct?
+[ANSWER]:Paracryptodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What suborder of turtles is extinct?
+[ANSWER]:Paracryptodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do turtle eggs preared to eat consist mainly of?
+[ANSWER]:Yolk
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do sea turtles lay their eggs?
+[ANSWER]:Holes Dug into the Mud or Sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where do sea turtles lay their eggs?
+[ANSWER]:holes dug into mud or sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the smallest suborder of turtles?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the smallest suborder of turtles?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are turtle eggs covered in when they incubate?
+[ANSWER]:Mud or Sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are turtle eggs covered in when they incubate?
+[ANSWER]:mud or sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What type of creatures breathe air and don't lay eggs underwater?
+[ANSWER]:Amniotes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What type of creatures breathe air and don't lay eggs underwater?
+[ANSWER]:amnoites
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are deposited in holes dug into mud or sand?
+[ANSWER]:eggs
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What sort of turtles are ectothermic?
+[ANSWER]:all of them
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles ectothermic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the largest turtles aquatic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is aquatic respiration in Australian freshwater turtles being studied?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:These projections , called papillae , have what?
+[ANSWER]:a rich blood supply
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The eggs of the largest species are what?
+[ANSWER]:spherical
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can turtles take many years to reach breeding age ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Immature sea turtles not cared for by the adults ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the Pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does the Order Testudines not include both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Ulysses Grant a general in the American Civil War?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Ulysses Grant a general in the American Civil War?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant's father-in-law a Democrat?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant's father-in-law a Democrat?
+[ANSWER]:yup
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Ulysses win the Battle of Champion Hill?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Ulysses win the Battle of Champion Hill?
+[ANSWER]:you betcha
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was Grant's brother in law?
+[ANSWER]:Fred Dent
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was Grant's brother in law?
+[ANSWER]:Fred Dent
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Grant born?
+[ANSWER]:Point Pleasant, Ohio
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Grant born?
+[ANSWER]:A log cabin in Point Pleasant, Clermont County, Ohio
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Grant's political affiliation?
+[ANSWER]:Republican
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Grant's political affiliation?
+[ANSWER]:Republican
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Grant say "Damn, I had nothing to do with this batte."?
+[ANSWER]:It went well.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Grant say "Damn, I had nothing to do with this batte."?
+[ANSWER]:Because the generals under him acted on their own.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Horace Greenley lose in the presidential elections of 1872?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Horace Greenley lose in the presidential elections of 1872?
+[ANSWER]:si
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Grant think that war was unjust?
+[ANSWER]:He thought it was designed to gain land open to slavery.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why did Grant think that war was unjust?
+[ANSWER]:He accepted the theory that it was designed to gain land open to slavery.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who achieved international fame as the leading Union general in the American Civil War?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Grant was elected president as a Republican in what year?
+[ANSWER]:1868
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who took aline that reduced violence by groups like the Ku Klux Klan?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he vote for democrat james buchanan?
+[ANSWER]:1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did President Lincoln promote of major general in the regular army, effective July 4?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant elected president as a Republican?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was from Pennsylvania?
+[ANSWER]:His father
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant 's favorite brand of bourbon whiskey Old Crow ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Had he smoked only sporadically ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?
+[ANSWER]:they did
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1865?
+[ANSWER]:he accepted the surrender of Robert E. Lee
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in recent years?
+[ANSWER]:his reputation as president has improved
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay located in the northwesten part of Africa?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay located in the northwesten part of Africa?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay's capital Montevideo?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay's capital Montevideo?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay have cold summers?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay have cold summers?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who founded Montevideo?
+[ANSWER]:The Spanish.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who founded Montevideo?
+[ANSWER]:the Spanish
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who heavily influenced the architecture and culture of Montevideo?
+[ANSWER]:European immigrants.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who heavily influenced the architecture and culture of Montevideo?
+[ANSWER]:European immigrants
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are poor neighborhoods called informally?
+[ANSWER]:Cantegriles.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are poor neighborhoods called informally?
+[ANSWER]:Cantegriles
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is uruguay's landscape mountainous?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is uruguay's landscape mountainous?
+<|startoftext|>
+[QUESTION]:not really?
+[ANSWER]
+<|startoftext|>
+[QUESTION]:What religion do most Uruguayans profess?
+[ANSWER]:None.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What religion do most Uruguayans profess?
+[ANSWER]:Roman Catholic
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay located in South America?
+[ANSWER]:Yes. It's located in the southeastern part
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay located in South America?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can citizens propose changes to the Constitution?
+[ANSWER]:Yes. People are allowed to challenge laws.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can citizens propose changes to the Constitution?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Uruguay host the first ever World Cup?
+[ANSWER]:Yes, in 1930.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Uruguay host the first ever World Cup?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who founded Montevideo?
+[ANSWER]:By the Spanish, in the early 18th century
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who founded Montevideo?
+[ANSWER]:Montevideo was founded by the Spanish in the early 18th century as a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many square kilometres of continental land is Uruguay?
+[ANSWER]:176.215 km
+<|endoftext|>
+ 
+<|startoftext|>
+[QUESTION]:How many square kilometres of continental land is Uruguay?
+[ANSWER]:176,214 square kilometres
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much of the population is of white European descent?
+[ANSWER]:88%
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much of the population is of white European descent?
+[ANSWER]:Approximately 88% of its population are of prevalently white European descent.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why was the capital of Uruguay founded?
+[ANSWER]:For a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why was the capital of Uruguay founded?
+[ANSWER]:Uruguay's capital, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many times has Uruguay won the World Cup?
+[ANSWER]:Twice. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many times has Uruguay won the World Cup?
+[ANSWER]:On two or more occasions.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much is the average income of an African woman compared to a European man?
+[ANSWER]:African women earns 0.65 * 0.718= 46.67% of a European man earns in average
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay recognize same-sex civil unions?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay recognize same-sex civil unions?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay border French Guiana?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay border French Guiana?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay's warmest month June?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay's warmest month June?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What does a citizen use to propose changes to the Constitution?
+[ANSWER]:Referendum
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What does a citizen use to propose changes to the Constitution?
+[ANSWER]:Plebiscite
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What religions are found in Uruguay?
+[ANSWER]:Roman Catholic, Protestant, Jewish, and nonprofessing.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What religions are found in Uruguay?
+[ANSWER]:Roman Catholic, Protestant, Jewish
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What has Uruguay done to be competitive in agriculture?
+[ANSWER]:Labeling as "Natural" or "Ecological"
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What has Uruguay done to be competitive in agriculture?
+[ANSWER]:Use low inputs of labour, technology, and capital, which results in lower yields but also opens the door for Uruguay to market 
+<|endoftext|>its products as "natural" or "ecological"
+<|startoftext|>
+[QUESTION]:What are the names of Uruguay's political parties?
+[ANSWER]:Partido Colorado and Partido Blanco
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are the names of Uruguay's political parties?
+[ANSWER]:Partido Blanco and Partido Colorado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay the smallest soverign nation in South America?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay the smallest soverign nation in South America?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was founded by the Spanish in the early 18th century as a military stronghold?
+[ANSWER]:Montevideo
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do india and latin america relate?
+[ANSWER]:Uruguay exports architectural services to India and Latin America
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Uruguay win in 1828?
+[ANSWER]:Its independence
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay very common?
+<|startoftext|>
+[QUESTION]:No?
+<|startoftext|>
+[QUESTION]:Is The climate in Uruguay temperate?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the main sport in Uruguay football ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay 's oldest church in San Carlos , Maldonado ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay a member of the Cairns Group of exporters of agricultural products ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it widely considered the most secular nation in Latin America ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Woodrow Wilson the thirtieth President of the United States?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Woodrow Wilson the thirtieth President of the United States?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Woodrow Wilson create the League of Nations?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Woodrow Wilson create the League of Nations?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the U.S. join the League of Nations?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the U.S. join the League of Nations?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was the League of Nations created?
+[ANSWER]:Paris
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was the League of Nations created?
+[ANSWER]:Paris
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Woodrow Wilson born?
+[ANSWER]:December 28, 1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Woodrow Wilson born?
+[ANSWER]:December 28, 1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was President when Wilson finished Congressional Government?
+[ANSWER]:Grover Cleveland
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was President when Wilson finished Congressional Government?
+[ANSWER]:Grover Cleveland
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What field did Woodrow Wilson leave law practice to study?
+[ANSWER]:history and political science
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What field did Woodrow Wilson leave law practice to study?
+[ANSWER]:Government
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Wilson to ask Congress to declare war on the Central Powers?
+[ANSWER]:German began unrestricted submarine warfare
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Wilson to ask Congress to declare war on the Central Powers?
+[ANSWER]:World War I
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was more damaging than moving students into colleges?
+[ANSWER]:His confrontation with Andrew Fleming West
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a member of the Phi Kappa Psi fraternity?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a member of the Phi Kappa Psi fraternity?
+[ANSWER]:Totally.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson an automobile enthusiast?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson an automobile enthusiast?
+[ANSWER]:ouai
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson's father own slaves?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson's father own slaves?
+[ANSWER]:Yeah
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Wilson buried?
+[ANSWER]:He was buried in Washington National Cathedral
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Wilson buried?
+[ANSWER]:Washington National Cathedral
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Wilson attend law school?
+[ANSWER]:Wilson attended law school at University of Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Wilson attend law school?
+[ANSWER]:University of Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Woodrow Wilson born?
+[ANSWER]:Woodrow Wilson was born in Staunton, Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Woodrow Wilson born?
+[ANSWER]:Staunton, Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support desegregation?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support desegregation?
+[ANSWER]:Not in the slightest.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support the committee system?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support the committee system?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson have any siblings?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson have any siblings?
+<|startoftext|>
+[QUESTION]:What was Scots-Irish and Scottish?
+[ANSWER]:His ancestry
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What defended slavery, owned slaves and set up a Sunday school for them?
+[ANSWER]:His father
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who did Wilson win in 1917?
+[ANSWER]:Irish Americans
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson awarded the 1919 Nobel Peace Prize?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a remarkably effective writer and thinker?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What lived in Columbia?
+[ANSWER]:Wilson
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson president of the American Political Science Association in 1910 ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1917?
+[ANSWER]:raised billions through Liberty loans, imposed an income tax, set up the War Industries Board, promoted labor union growth, 
+<|endoftext|>supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements

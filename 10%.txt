@@ -1,0 +1,748 @@
+<|startoftext|>
+[QUESTION]:Is it true that sea turtles lay eggs on dry sandy beaches?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that sea turtles lay eggs on dry sandy beaches?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Pleurodira also called side-necked turtles?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Pleurodira also called side-necked turtles?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles considered a part of the Flying Spaghetti Monster?
+[ANSWER]:*shrug*
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many suborders are turtles split into?
+[ANSWER]:Three.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many suborders are turtles split into?
+[ANSWER]:three
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name a turtle commonly kept as a pet.
+[ANSWER]:Russian Tortoises
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Name a turtle commonly kept as a pet.
+[ANSWER]:Russian Tortoises
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Give names of four related articles for the article on turtles.
+[ANSWER]:Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Give names of four related articles for the article on turtles.
+[ANSWER]:Triassic, Ernst Haeckel, Kunstformen der Natur, Animal
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:If a turtle egg was kept warm, what would likely hatch?
+[ANSWER]:A female turtle.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:If a turtle egg was kept warm, what would likely hatch?
+[ANSWER]:A female
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do turles breathe through in the water?
+[ANSWER]:Papillae
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are side-necked turtles called so?
+[ANSWER]:Because of the way they withdraw their heads into their shells.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why are side-necked turtles called so?
+[ANSWER]:The way they withdraw their heads into their shells.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that turtles lay eggs underwater?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that turtles lay eggs underwater?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtle eggs leathery and soft in nature?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtle eggs leathery and soft in nature?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles being examined for longevity genes?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles being examined for longevity genes?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which suborder of turtles is extinct?
+[ANSWER]:Paracryptodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which suborder of turtles is extinct?
+[ANSWER]:Paracryptodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What do turtle eggs preared to eat mostly consist of?
+[ANSWER]:Yolk
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which places do sea turtles lay their eggs?
+[ANSWER]:Holes Dug into the Mud or Sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which places do sea turtles lay their eggs?
+[ANSWER]:holes dug into mud or sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the tiniest suborder of turtles?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the tiniest suborder of turtles?
+[ANSWER]:Pleurodira
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are turtle eggs covered with when they incubate?
+[ANSWER]:Mud or Sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are turtle eggs covered with when they incubate?
+[ANSWER]:mud or sand
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Creatures that breathe air and don't lay eggs underwater are called?
+[ANSWER]:Amniotes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Creatures that breathe air and don't lay eggs underwater are called?
+[ANSWER]:amnoites
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are deposited in holes dug into mud or sand?
+[ANSWER]:eggs
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which type of turtles are ectothermic?
+[ANSWER]:all of them
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are turtles considered ectothermic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the biggest turtles aquatic?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is aquatic respiration in Australian freshwater turtles under study?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Papillae have what?
+[ANSWER]:a rich blood supply
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:The eggs of the biggest species are what?
+[ANSWER]:spherical
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can turtles take a lot of years to reach breeding age ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are Immature sea turtles not cared for by the adults ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are the Pleurodira sometimes also called the side-necked turtles , a reference to the way they withdraw their heads into their shells ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Are both extant -LRB- living -RRB- and extinct species , the earliest known turtles being from around 215 million years ago not included in Order Testudines?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Ulysses Grant a general in the American Civil War?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Ulysses Grant a general in the American Civil War?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant's father-in-law a Democrat?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant's father-in-law a Democrat?
+[ANSWER]:yup
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Ulysses win the Battle of Champion Hill?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Ulysses win the Battle of Champion Hill?
+[ANSWER]:you betcha
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person was Grant's brother in law?
+[ANSWER]:Fred Dent
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person was Grant's brother in law?
+[ANSWER]:Fred Dent
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Grant born?
+[ANSWER]:Point Pleasant, Ohio
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Grant born?
+[ANSWER]:A log cabin in Point Pleasant, Clermont County, Ohio
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Grant's political affiliation?
+[ANSWER]:Republican
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was Grant's political affiliation?
+[ANSWER]:Republican
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the reason for Grant saying "Damn, I had nothing to do with this batte."?
+[ANSWER]:It went well.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the reason for Grant saying "Damn, I had nothing to do with this batte."?
+[ANSWER]:Because the generals under him acted on their own.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Horace Greenley not win in the presidential elections of 1872?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Horace Greenley not win in the presidential elections of 1872?
+[ANSWER]:si
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the reason for Grant thinking that war was unjust?
+[ANSWER]:He thought it was designed to gain land open to slavery.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What is the reason for Grant thinking that war was unjust?
+[ANSWER]:He accepted the theory that it was designed to gain land open to slavery.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person gained international fame as the leading Union general in the American Civil War?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Grant was elected president as a Republican in which year?
+[ANSWER]:1868
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person took aline that reduced violence by groups like the Ku Klux Klan?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When did he vote for democrat james buchanan?
+[ANSWER]:1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person did President Lincoln promote of major general in the regular army, effective July 4?
+[ANSWER]:Grant
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant elected president as a Republican?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Who was from Pennsylvania?
+[ANSWER]:His father
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was it a two-sentence description that completely caught the essence of Ulysses S. Grant ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Grant's favorite brand of bourbon whiskey Old Crow ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Had he smoked only sporadically ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Grant & Perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous Galena area ?
+[ANSWER]:they did
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the famous dragon gate at the entrance to the district at the corner of Grant and Bush Street ?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1865?
+[ANSWER]:he accepted the surrender of Robert E. Lee
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in recent years?
+[ANSWER]:his reputation as president has improved
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay situated in the northwesten part of Africa?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay situated in the northwesten part of Africa?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Montevideo Uruguay's capital?
+[ANSWER]:Yes.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Montevideo Uruguay's capital?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay have cold summers?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay have cold summers?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person founded Montevideo?
+[ANSWER]:The Spanish.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person founded Montevideo?
+[ANSWER]:the Spanish
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person heavily influenced the architecture and culture of Montevideo?
+[ANSWER]:European immigrants.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person heavily influenced the architecture and culture of Montevideo?
+[ANSWER]:European immigrants
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are poor neighborhoods called informally?
+[ANSWER]:Cantegriles.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are poor neighborhoods called informally?
+[ANSWER]:Cantegriles
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is uruguay's landscape mountainous?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is uruguay's landscape mountainous?
+<|startoftext|>
+[QUESTION]:not really?
+[ANSWER]
+<|startoftext|>
+[QUESTION]:Which religion do most Uruguayans profess?
+[ANSWER]:None.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which religion do most Uruguayans profess?
+[ANSWER]:Roman Catholic
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay situated in South America?
+[ANSWER]:Yes. It's located in the southeastern part
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay situated in South America?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can citizens suggest changes to the Constitution?
+[ANSWER]:Yes. People are allowed to challenge laws.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Can citizens suggest changes to the Constitution?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Uruguay host the first ever World Cup?
+[ANSWER]:Yes, in 1930.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Uruguay host the first ever World Cup?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person founded Montevideo?
+[ANSWER]:By the Spanish, in the early 18th century
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person founded Montevideo?
+[ANSWER]:Montevideo was founded by the Spanish in the early 18th century as a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many square km of continental land is Uruguay?
+[ANSWER]:176.215 km
+<|endoftext|>
+ 
+<|startoftext|>
+[QUESTION]:How many square km of continental land is Uruguay?
+[ANSWER]:176,214 square kilometres
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What amount of the population is of white European descent?
+[ANSWER]:88%
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What amount of the population is of white European descent?
+[ANSWER]:Approximately 88% of its population are of prevalently white European descent.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why was the capital of Uruguay founded?
+[ANSWER]:For a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Why was the capital of Uruguay founded?
+[ANSWER]:Uruguay's capital, Montevideo, was founded by the Spanish in the early 18th century as a military stronghold.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many times has Uruguay lifted the World Cup?
+[ANSWER]:Twice. 
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How many times has Uruguay lifted the World Cup?
+[ANSWER]:On two or more occasions.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How much is the average income of an African woman in comparison to a European man?
+[ANSWER]:African women earns 0.65 * 0.718= 46.67% of a European man earns in average
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay acknowledge same-sex civil unions?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Does Uruguay acknowledge same-sex civil unions?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that Uruguay border French Guiana?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it true that Uruguay border French Guiana?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is June Uruguay's warmest month?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is June Uruguay's warmest month?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Through what does a citizen propose changes to the Constitution?
+[ANSWER]:Referendum
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Through what does a citizen propose changes to the Constitution?
+[ANSWER]:Plebiscite
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church located?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Uruguay's oldest church located?
+[ANSWER]:San Carlos, Maldonado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What religions can be found in Uruguay?
+[ANSWER]:Roman Catholic, Protestant, Jewish, and nonprofessing.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What religions can be found in Uruguay?
+[ANSWER]:Roman Catholic, Protestant, Jewish
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What steps has Uruguay taken to be competitive in agriculture?
+[ANSWER]:Labeling as "Natural" or "Ecological"
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What steps has Uruguay taken to be competitive in agriculture?
+[ANSWER]:Use low inputs of labour, technology, and capital, which results in lower yields but also opens the door for Uruguay to market 
+<|endoftext|>its products as "natural" or "ecological"
+<|startoftext|>
+[QUESTION]:What are Uruguay's political parties called?
+[ANSWER]:Partido Colorado and Partido Blanco
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What are Uruguay's political parties called?
+[ANSWER]:Partido Blanco and Partido Colorado
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay the smallest soverign nation in South America?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay the smallest soverign nation in South America?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was founded by the Spanish in the early 18th century as a military stronghold?
+[ANSWER]:Montevideo
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:How do india and latin america relate?
+[ANSWER]:Uruguay exports architectural services to India and Latin America
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What did Uruguay win in 1828?
+[ANSWER]:Its independence
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay very common?
+<|startoftext|>
+[QUESTION]:No?
+<|startoftext|>
+[QUESTION]:Is The climate in Uruguay temperate?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is the main sport in Uruguay football ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay 's oldest church in San Carlos , Maldonado ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is Uruguay a member of the Cairns Group of exporters of agricultural products ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it widely considered the most secular nation in Latin America ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Woodrow Wilson the thirtieth President of the United States?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Woodrow Wilson the thirtieth President of the United States?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Woodrow Wilson create the League of Nations?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Woodrow Wilson create the League of Nations?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the U.S. join the League of Nations?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did the U.S. join the League of Nations?
+[ANSWER]:No
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was the League of Nations created?
+[ANSWER]:Paris
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was the League of Nations created?
+[ANSWER]:Paris
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Woodrow Wilson born?
+[ANSWER]:December 28, 1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:When was Woodrow Wilson born?
+[ANSWER]:December 28, 1856
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person was President when Wilson finished Congressional Government?
+[ANSWER]:Grover Cleveland
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person was President when Wilson finished Congressional Government?
+[ANSWER]:Grover Cleveland
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What field did Woodrow Wilson leave law practice to study?
+[ANSWER]:history and political science
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What field did Woodrow Wilson leave law practice to study?
+[ANSWER]:Government
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Wilson to ask Congress to declare war on the Central Powers?
+[ANSWER]:German began unrestricted submarine warfare
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What caused Wilson to ask Congress to declare war on the Central Powers?
+[ANSWER]:World War I
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What was more damaging than moving students into colleges?
+[ANSWER]:His confrontation with Andrew Fleming West
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a member of the Phi Kappa Psi fraternity?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a member of the Phi Kappa Psi fraternity?
+[ANSWER]:Totally.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson an automobile enthusiast?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson an automobile enthusiast?
+[ANSWER]:ouai
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson's father own slaves?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson's father own slaves?
+[ANSWER]:Yeah
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Wilson buried?
+[ANSWER]:He was buried in Washington National Cathedral
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where is Wilson buried?
+[ANSWER]:Washington National Cathedral
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Wilson attend law school?
+[ANSWER]:Wilson attended law school at University of Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where did Wilson attend law school?
+[ANSWER]:University of Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Woodrow Wilson born?
+[ANSWER]:Woodrow Wilson was born in Staunton, Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Where was Woodrow Wilson born?
+[ANSWER]:Staunton, Virginia
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support desegregation?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support desegregation?
+[ANSWER]:Not in the slightest.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support the committee system?
+[ANSWER]:no
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson support the committee system?
+[ANSWER]:No.
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson have any siblings?
+[ANSWER]:yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson have any siblings?
+<|startoftext|>
+[QUESTION]:What was Scots-Irish and Scottish?
+[ANSWER]:His ancestry
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What defended slavery, owned slaves and set up a Sunday school for them?
+[ANSWER]:His father
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Which person did Wilson win in 1917?
+[ANSWER]:Irish Americans
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson awarded the 1919 Nobel Peace Prize?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson a remarkably effective writer and thinker?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What lived in Columbia?
+[ANSWER]:Wilson
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson president of the American Political Science Association in 1910 ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did he not cast his ballot for John M. Palmer , the presidential candidate of the National Democratic Party , or Gold Democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Did Wilson not spend 1914 through the beginning of 1917 trying to keep America out of the war in Europe ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:Was Wilson , a staunch opponent of antisemitism , sympathetic to the plight of Jews , especially in Poland and in France ?
+[ANSWER]:Yes
+<|endoftext|>
+<|startoftext|>
+[QUESTION]:What happened in 1917?
+[ANSWER]:raised billions through Liberty loans, imposed an income tax, set up the War Industries Board, promoted labor union growth, 
+<|endoftext|>supervised agriculture and food production through the Lever Act, took over control of the railroads, and suppressed anti-war movements
